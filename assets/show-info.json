@@ -1,0 +1,3335 @@
+{
+  "generatedAt": "2026-05-27T17:53:42.638Z",
+  "info": {
+    "Игра престолов": {
+      "name": "Game of Thrones",
+      "summary": "Based on the bestselling book series A Song of Ice and Fire by George R.R. Martin, this sprawling new HBO drama is set in a world where summers span decades and winters can last a lifetime. From the scheming south and the savage eastern lands, to the frozen north and ancient Wall that protects the realm from the mysterious darkness beyond, the powerful families of the Seven Kingdoms are locked in a battle for the Iron Throne. This is a story of duplicity and treachery, nobility and honor, conquest and triumph. In the Game of Thrones , you either win or you die.",
+      "seasons": 8,
+      "episodes": 73,
+      "status": "Ended",
+      "premiered": "2011-04-17",
+      "ended": "2019-05-19",
+      "genres": [
+        "Drama",
+        "Adventure",
+        "Fantasy"
+      ],
+      "language": "English",
+      "network": "HBO",
+      "cast": [
+        {
+          "actor": "Peter Dinklage",
+          "character": "Tyrion Lannister"
+        },
+        {
+          "actor": "Kit Harington",
+          "character": "Jon Snow"
+        },
+        {
+          "actor": "Lena Headey",
+          "character": "Queen Cersei Lannister"
+        },
+        {
+          "actor": "Emilia Clarke",
+          "character": "Daenerys Targaryen"
+        },
+        {
+          "actor": "Sophie Turner",
+          "character": "Sansa Stark"
+        },
+        {
+          "actor": "Maisie Williams",
+          "character": "Arya Stark"
+        },
+        {
+          "actor": "Nikolaj Coster-Waldau",
+          "character": "Ser Jaime Lannister"
+        },
+        {
+          "actor": "Iain Glen",
+          "character": "Ser Jorah Mormont"
+        },
+        {
+          "actor": "Alfie Allen",
+          "character": "Theon Greyjoy"
+        },
+        {
+          "actor": "John Bradley",
+          "character": "Samwell Tarly"
+        }
+      ]
+    },
+    "Теория большого взрыва": {
+      "name": "The Big Bang Theory",
+      "summary": "The Big Bang Theory is a comedy about brilliant physicists, Leonard and Sheldon, who are the kind of \"beautiful minds\" that understand how the universe works. But none of that genius helps them interact with people, especially women. All this begins to change when a free-spirited beauty named Penny moves in next door. Sheldon, Leonard's roommate, is quite content spending his nights playing Klingon Boggle with their socially dysfunctional friends, fellow Cal Tech scientists Wolowitz and Koothrappali. However, Leonard sees in Penny a whole new universe of possibilities... including love.",
+      "seasons": 12,
+      "episodes": 279,
+      "status": "Ended",
+      "premiered": "2007-09-24",
+      "ended": "2019-05-16",
+      "genres": [
+        "Comedy"
+      ],
+      "language": "English",
+      "network": "CBS",
+      "cast": [
+        {
+          "actor": "Johnny Galecki",
+          "character": "Leonard Leakey Hofstadter"
+        },
+        {
+          "actor": "Jim Parsons",
+          "character": "Sheldon Lee Cooper"
+        },
+        {
+          "actor": "Simon Helberg",
+          "character": "Howard Joel Wolowitz"
+        },
+        {
+          "actor": "Kunal Nayyar",
+          "character": "Rajesh Ramayan Koothrappali"
+        },
+        {
+          "actor": "Kaley Cuoco",
+          "character": "Penny"
+        },
+        {
+          "actor": "Melissa Rauch",
+          "character": "Bernadette Marianne Rostenkowski"
+        },
+        {
+          "actor": "Mayim Bialik",
+          "character": "Amy Farrah Fowler"
+        },
+        {
+          "actor": "Kevin Sussman",
+          "character": "Stuart Bloom"
+        },
+        {
+          "actor": "Laura Spencer",
+          "character": "Emily Sweeney"
+        },
+        {
+          "actor": "Sara Gilbert",
+          "character": "Leslie Winkle"
+        }
+      ]
+    },
+    "Во все тяжкие": {
+      "name": "Breaking Bad",
+      "summary": "Breaking Bad follows protagonist Walter White, a chemistry teacher who lives in New Mexico with his wife and teenage son who has cerebral palsy. White is diagnosed with Stage III cancer and given a prognosis of two years left to live. With a new sense of fearlessness based on his medical prognosis, and a desire to secure his family's financial security, White chooses to enter a dangerous world of drugs and crime and ascends to power in this world. The series explores how a fatal diagnosis such as White's releases a typical man from the daily concerns and constraints of normal society and follows his transformation from mild family man to a kingpin of the drug trade.",
+      "seasons": 5,
+      "episodes": 62,
+      "status": "Ended",
+      "premiered": "2008-01-20",
+      "ended": "2019-10-11",
+      "genres": [
+        "Drama",
+        "Crime",
+        "Thriller"
+      ],
+      "language": "English",
+      "network": "AMC",
+      "cast": [
+        {
+          "actor": "Bryan Cranston",
+          "character": "Walter White"
+        },
+        {
+          "actor": "Aaron Paul",
+          "character": "Jesse Pinkman"
+        },
+        {
+          "actor": "Anna Gunn",
+          "character": "Skyler White"
+        },
+        {
+          "actor": "RJ Mitte",
+          "character": "Walter White Jr."
+        },
+        {
+          "actor": "Dean Norris",
+          "character": "Hank Schrader"
+        },
+        {
+          "actor": "Betsy Brandt",
+          "character": "Marie Schrader"
+        },
+        {
+          "actor": "Bob Odenkirk",
+          "character": "Saul Goodman"
+        },
+        {
+          "actor": "Jonathan Banks",
+          "character": "Michael 'Mike' Ehrmantraut"
+        },
+        {
+          "actor": "Giancarlo Esposito",
+          "character": "Gustavo 'Gus' Fring"
+        },
+        {
+          "actor": "Jesse Plemons",
+          "character": "Todd Alquist"
+        }
+      ]
+    },
+    "Сверхъестественное": {
+      "name": "Supernatural",
+      "summary": "This haunting series follows the Winchester brothers as they crisscross the lonely and mysterious back roads of the country in their '67 Chevy Impala, hunting down every evil supernatural force they encounter along the way.",
+      "seasons": 15,
+      "episodes": 327,
+      "status": "Ended",
+      "premiered": "2005-09-13",
+      "ended": "2020-11-19",
+      "genres": [
+        "Drama",
+        "Action",
+        "Supernatural"
+      ],
+      "language": "English",
+      "network": "The CW",
+      "cast": [
+        {
+          "actor": "Jared Padalecki",
+          "character": "Sam Winchester"
+        },
+        {
+          "actor": "Jensen Ackles",
+          "character": "Dean Winchester"
+        },
+        {
+          "actor": "Misha Collins",
+          "character": "Castiel"
+        },
+        {
+          "actor": "Mark Sheppard",
+          "character": "Crowley"
+        },
+        {
+          "actor": "Alexander Calvert",
+          "character": "Jack"
+        },
+        {
+          "actor": "Mark Pellegrino",
+          "character": "Lucifer"
+        },
+        {
+          "actor": "Katie Cassidy",
+          "character": "Ruby"
+        },
+        {
+          "actor": "Lauren Cohan",
+          "character": "Bela Talbot"
+        },
+        {
+          "actor": "Mark Pellegrino",
+          "character": "Nick"
+        },
+        {
+          "actor": "Alexander Calvert",
+          "character": "Belphegor"
+        }
+      ]
+    },
+    "Офис": {
+      "name": "The Office",
+      "summary": "Steve Carell stars in The Office , a fresh and funny mockumentary-style glimpse into the daily interactions of the eccentric workers at the Dunder Mifflin paper supply company. Based on the smash-hit British series of the same name and adapted for American Television by Greg Daniels, this fast-paced comedy parodies contemporary American water-cooler culture. Earnest but clueless regional manager Michael Scott believes himself to be an exceptional boss and mentor, but actually receives more eye-rolls than respect from his oddball staff.",
+      "seasons": 9,
+      "episodes": 202,
+      "status": "Ended",
+      "premiered": "2005-03-24",
+      "ended": "2013-05-16",
+      "genres": [
+        "Comedy"
+      ],
+      "language": "English",
+      "network": "NBC",
+      "cast": [
+        {
+          "actor": "Rainn Wilson",
+          "character": "Dwight Kurt Schrute"
+        },
+        {
+          "actor": "John Krasinski",
+          "character": "Jim Halpert"
+        },
+        {
+          "actor": "Leslie David Baker",
+          "character": "Stanley Hudson"
+        },
+        {
+          "actor": "Phyllis Smith",
+          "character": "Phyllis Lapin-Vance"
+        },
+        {
+          "actor": "Jenna Fischer",
+          "character": "Pam Beesly"
+        },
+        {
+          "actor": "Brian Baumgartner",
+          "character": "Kevin Malone"
+        },
+        {
+          "actor": "Angela Kinsey",
+          "character": "Angela Martin"
+        },
+        {
+          "actor": "Oscar Nuñez",
+          "character": "Oscar Martinez"
+        },
+        {
+          "actor": "Kate Flannery",
+          "character": "Meredith Palmer"
+        },
+        {
+          "actor": "Creed Bratton",
+          "character": "Creed Bratton"
+        }
+      ]
+    },
+    "Извне": {
+      "name": "FROM",
+      "summary": "FROM unravels the mystery of a nightmarish town that traps all those who enter. As the unwilling residents fight to keep a sense of normalcy and search for a way out, they must also survive the threats of the surrounding forest – including the terrifying creatures that come out when the sun goes down. In season two, hidden truths about the nature and terrifying origins of the town begin to emerge, even as life for its residents is plunged into chaos by the arrival of mysterious newcomers.",
+      "seasons": 4,
+      "episodes": 40,
+      "status": "Running",
+      "premiered": "2022-02-20",
+      "ended": "",
+      "genres": [
+        "Drama",
+        "Horror",
+        "Science-Fiction"
+      ],
+      "language": "English",
+      "network": "MGM+",
+      "cast": [
+        {
+          "actor": "Harold Perrineau",
+          "character": "Boyd Stevens"
+        },
+        {
+          "actor": "Catalina Sandino Moreno",
+          "character": "Tabitha Matthews"
+        },
+        {
+          "actor": "Ricky He",
+          "character": "Kenny Liu"
+        },
+        {
+          "actor": "Hannah Cheramy",
+          "character": "Julie Matthews"
+        },
+        {
+          "actor": "Simon Webster",
+          "character": "Ethan Matthews"
+        },
+        {
+          "actor": "David Alpay",
+          "character": "Jade Herrera"
+        },
+        {
+          "actor": "Elizabeth Saunders",
+          "character": "Donna Raines"
+        },
+        {
+          "actor": "Chloe Van Landschoot",
+          "character": "Kristi Miller"
+        },
+        {
+          "actor": "Pegah Ghafoori",
+          "character": "Fatima Hassan"
+        },
+        {
+          "actor": "Corteon Moore",
+          "character": "Ellis Stevens"
+        }
+      ]
+    },
+    "Чёрное зеркало": {
+      "name": "Black Mirror",
+      "summary": "Over the last ten years, technology has transformed almost every aspect of our lives before we've had time to stop and question it. In every home; on every desk; in every palm - a plasma screen; a monitor; a smartphone--a black mirror of our 21st Century existence. Black Mirror is a contemporary British re-working of The Twilight Zone with stories that tap into the collective unease about our modern world.",
+      "seasons": 7,
+      "episodes": 32,
+      "status": "Running",
+      "premiered": "2011-12-04",
+      "ended": "",
+      "genres": [
+        "Drama",
+        "Science-Fiction",
+        "Thriller"
+      ],
+      "language": "English",
+      "network": "Netflix",
+      "cast": []
+    },
+    "Тед Лассо": {
+      "name": "Ted Lasso",
+      "summary": "Ted Lasso centers on an idealistic — and clueless — all-American football coach hired to manage an English football club — despite having no soccer coaching experience at all.",
+      "seasons": 4,
+      "episodes": 44,
+      "status": "Running",
+      "premiered": "2020-08-14",
+      "ended": "",
+      "genres": [
+        "Drama",
+        "Comedy",
+        "Sports"
+      ],
+      "language": "English",
+      "network": "Apple TV",
+      "cast": [
+        {
+          "actor": "Jason Sudeikis",
+          "character": "Ted Lasso"
+        },
+        {
+          "actor": "Brendan Hunt",
+          "character": "Coach Beard"
+        },
+        {
+          "actor": "Brett Goldstein",
+          "character": "Roy Kent"
+        },
+        {
+          "actor": "Billy Harris",
+          "character": "Colin Hughes"
+        },
+        {
+          "actor": "Kola Bokinni",
+          "character": "Isaac McAdoo"
+        },
+        {
+          "actor": "Hannah Waddingham",
+          "character": "Rebecca Welton"
+        },
+        {
+          "actor": "Jeremy Swift",
+          "character": "Leslie Higgins"
+        },
+        {
+          "actor": "Nick Mohammed",
+          "character": "Nathan Shelley"
+        },
+        {
+          "actor": "Juno Temple",
+          "character": "Keeley Jones"
+        },
+        {
+          "actor": "Phil Dunster",
+          "character": "Jamie Tartt"
+        }
+      ]
+    },
+    "Острые козырьки": {
+      "name": "Peaky Blinders",
+      "summary": "An epic gangster drama set in the lawless streets of 1920s Birmingham.",
+      "seasons": 6,
+      "episodes": 36,
+      "status": "Running",
+      "premiered": "2013-09-12",
+      "ended": "",
+      "genres": [
+        "Drama",
+        "Crime",
+        "History"
+      ],
+      "language": "English",
+      "network": "BBC One",
+      "cast": [
+        {
+          "actor": "Cillian Murphy",
+          "character": "Tommy Shelby"
+        },
+        {
+          "actor": "Sophie Rundle",
+          "character": "Ada Shelby"
+        },
+        {
+          "actor": "Paul Anderson",
+          "character": "Arthur Shelby"
+        },
+        {
+          "actor": "Harry Kirton",
+          "character": "Finn Shelby"
+        },
+        {
+          "actor": "Helen McCrory",
+          "character": "Polly Gray"
+        },
+        {
+          "actor": "Ned Dennehy",
+          "character": "Charlie Strong"
+        },
+        {
+          "actor": "Ian Peck",
+          "character": "Curly"
+        },
+        {
+          "actor": "Natasha O'Keeffe",
+          "character": "Lizzie Stark"
+        },
+        {
+          "actor": "Finn Cole",
+          "character": "Michael Gray"
+        },
+        {
+          "actor": "Packy Lee",
+          "character": "Johnny Dogs"
+        }
+      ]
+    },
+    "Менталист": {
+      "name": "The Mentalist",
+      "summary": "Patrick Jane, an independent consultant with the California Bureau of Investigation (CBI), has a remarkable track record for solving serious crimes by using his razor sharp skills of observation. Within the Bureau, Jane is notorious for his blatant lack of protocol and his semi-celebrity past as a psychic medium, whose paranormal abilities he now admits he feigned. No-nonsense Senior Agent Teresa Lisbon openly resists having Jane in her unit and alternates between reluctantly acknowledging Jane's usefulness and blasting him for his theatrics, narcissism, and dangerous lack of boundaries. Lisbon's team includes agents Kimball Cho, Wayne Rigsby and rookie member Grace Van Pelt, who all think Jane's a loose cannon but admire his charm and knack for clearing cases.",
+      "seasons": 7,
+      "episodes": 151,
+      "status": "Ended",
+      "premiered": "2008-09-23",
+      "ended": "2015-02-18",
+      "genres": [
+        "Drama",
+        "Crime",
+        "Mystery"
+      ],
+      "language": "English",
+      "network": "CBS",
+      "cast": [
+        {
+          "actor": "Simon Baker",
+          "character": "Patrick Jane"
+        },
+        {
+          "actor": "Robin Tunney",
+          "character": "Teresa Lisbon"
+        },
+        {
+          "actor": "Tim Kang",
+          "character": "Kimball Cho"
+        },
+        {
+          "actor": "Owain Yeoman",
+          "character": "Wayne Rigsby"
+        },
+        {
+          "actor": "Amanda Righetti",
+          "character": "Grace Van Pelt"
+        },
+        {
+          "actor": "Rockmond Dunbar",
+          "character": "Dennis Abbott"
+        },
+        {
+          "actor": "Joe Adler",
+          "character": "Jason Wylie"
+        },
+        {
+          "actor": "Emily Swallow",
+          "character": "Kim Fischer"
+        },
+        {
+          "actor": "Josie Loren",
+          "character": "Michelle Vega"
+        }
+      ]
+    },
+    "Друзья": {
+      "name": "Friends",
+      "summary": "Six young (20-something) people from New York City (Manhattan), on their own and struggling to survive in the real world, find the companionship, comfort and support they get from each other to be the perfect antidote to the pressures of life. This average group of buddies goes through massive mayhem, family trouble, past and future romances, fights, laughs, tears and surprises as they learn what it really means to be a friend.",
+      "seasons": 10,
+      "episodes": 236,
+      "status": "Ended",
+      "premiered": "1994-09-22",
+      "ended": "2004-05-06",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "language": "English",
+      "network": "NBC",
+      "cast": [
+        {
+          "actor": "Jennifer Aniston",
+          "character": "Rachel Green"
+        },
+        {
+          "actor": "Courteney Cox",
+          "character": "Monica Geller"
+        },
+        {
+          "actor": "Lisa Kudrow",
+          "character": "Phoebe Buffay"
+        },
+        {
+          "actor": "Matt LeBlanc",
+          "character": "Joey Tribbiani"
+        },
+        {
+          "actor": "Matthew Perry",
+          "character": "Chandler Bing"
+        },
+        {
+          "actor": "David Schwimmer",
+          "character": "Ross Geller"
+        }
+      ]
+    },
+    "Детство Шелдона": {
+      "name": "Young Sheldon",
+      "summary": "For young Sheldon Cooper, it isn't easy growing up in East Texas. Being a once-in-a-generation mind capable of advanced mathematics and science isn't always helpful in a land where church and football are king. And while the vulnerable, gifted and somewhat naïve Sheldon deals with the world, his very normal family must find a way to deal with him. His father, George, is struggling to find his way as a high school football coach and as father to a boy he doesn't understand. Sheldon's mother, Mary, fiercely protects and nurtures her son in a town where he just doesn't fit in. Sheldon's older brother, Georgie, does the best he can in high school, but it's tough to be cool when you're in the same classes with your odd younger brother. Sheldon's twin sister, Missy, sometimes resents all the attention Sheldon gets, but also remains the one person who can reliably tell Sheldon the truth. Finally, there's Sheldon's beloved Meemaw, his foul-mouthed, hard-drinking Texas grandmother who is very supportive of her grandson and his unique gifts. For 12 years on The Big Bang Theory , audiences have come to know the iconic, eccentric, and extraordinary Sheldon Cooper. This single-camera, half-hour comedy allows us the chance to meet him in childhood, as he embarks on his innocent, awkward, and hopeful journey toward the man he will become.",
+      "seasons": 7,
+      "episodes": 141,
+      "status": "Ended",
+      "premiered": "2017-09-25",
+      "ended": "2024-05-16",
+      "genres": [
+        "Comedy",
+        "Family"
+      ],
+      "language": "English",
+      "network": "CBS",
+      "cast": [
+        {
+          "actor": "Iain Armitage",
+          "character": "Sheldon Cooper"
+        },
+        {
+          "actor": "Raegan Revord",
+          "character": "Missy Cooper"
+        },
+        {
+          "actor": "Montana Jordan",
+          "character": "George Cooper Jr."
+        },
+        {
+          "actor": "Zoe Perry",
+          "character": "Mary Cooper"
+        },
+        {
+          "actor": "Lance Barber",
+          "character": "George Cooper Sr."
+        },
+        {
+          "actor": "Annie Potts",
+          "character": "Connie Tucker"
+        },
+        {
+          "actor": "Jim Parsons",
+          "character": "Sheldon"
+        },
+        {
+          "actor": "Matt Hobby",
+          "character": "Pastor Jeff Hodgkins"
+        },
+        {
+          "actor": "Wyatt McClure",
+          "character": "Billy Sparks"
+        },
+        {
+          "actor": "Emily Osment",
+          "character": "Mandy McAllister"
+        }
+      ]
+    },
+    "Киностудия": {
+      "name": "The Studio",
+      "summary": "As movies struggle to stay alive and relevant, Matt and his core team of infighting executives battle their own insecurities as they wrangle narcissistic artists and craven corporate overlords in the ever-elusive pursuit of making great films. With their power suits masking their never-ending sense of panic, every party, set visit, casting decision, marketing meeting, and award show presents them with an opportunity for glittering success or career-ending catastrophe. As someone who eats, sleeps, and breathes movies, it's the job Matt's been pursuing his whole life, and it may very well destroy him.",
+      "seasons": 1,
+      "episodes": 10,
+      "status": "Running",
+      "premiered": "2025-03-26",
+      "ended": "",
+      "genres": [
+        "Comedy"
+      ],
+      "language": "English",
+      "network": "Apple TV",
+      "cast": [
+        {
+          "actor": "Seth Rogen",
+          "character": "Matt Remick"
+        },
+        {
+          "actor": "Ike Barinholtz",
+          "character": "Sal Saperstein"
+        },
+        {
+          "actor": "Chase Sui Wonders",
+          "character": "Quinn Hackett"
+        },
+        {
+          "actor": "Kathryn Hahn",
+          "character": "Maya Mason"
+        },
+        {
+          "actor": "Catherine O'Hara",
+          "character": "Patty Leigh"
+        }
+      ]
+    },
+    "Ход королевы": {
+      "name": "The Queen's Gambit",
+      "summary": "Chronicling the life of an orphan chess prodigy, the story - set during the Cold War era - follows Beth Harmon from the age of eight to twenty-two, as she struggles with addiction in a quest to become the greatest chess player in the world.",
+      "seasons": 1,
+      "episodes": 7,
+      "status": "Ended",
+      "premiered": "2020-10-23",
+      "ended": "2020-10-23",
+      "genres": [
+        "Drama"
+      ],
+      "language": "English",
+      "network": "Netflix",
+      "cast": [
+        {
+          "actor": "Anya Taylor-Joy",
+          "character": "Beth Harmon"
+        },
+        {
+          "actor": "Chloe Pirrie",
+          "character": "Alice Harmon"
+        },
+        {
+          "actor": "Bill Camp",
+          "character": "Mr. Shaibel"
+        },
+        {
+          "actor": "Marielle Heller",
+          "character": "Mrs. Alma Wheatley"
+        },
+        {
+          "actor": "Marcin Dorociński",
+          "character": "Vasily Borgov"
+        },
+        {
+          "actor": "Moses Ingram",
+          "character": "Jolene"
+        },
+        {
+          "actor": "Thomas Brodie Sangster",
+          "character": "Benny Watts"
+        },
+        {
+          "actor": "Harry Melling",
+          "character": "Harry Beltik"
+        },
+        {
+          "actor": "Isla Johnston",
+          "character": "Young Beth Harmon"
+        },
+        {
+          "actor": "Jacob Fortune-Lloyd",
+          "character": "Townes"
+        }
+      ]
+    },
+    "Дом Дракона": {
+      "name": "House of the Dragon",
+      "summary": "Set 200 years before the events of Game of Thrones, House of the Dragon tells the history of House Targaryen as they fight through a civil war.",
+      "seasons": 3,
+      "episodes": 26,
+      "status": "Running",
+      "premiered": "2022-08-21",
+      "ended": "",
+      "genres": [
+        "Drama",
+        "Action",
+        "Fantasy"
+      ],
+      "language": "English",
+      "network": "HBO",
+      "cast": [
+        {
+          "actor": "Matt Smith",
+          "character": "Prince Daemon Targaryen"
+        },
+        {
+          "actor": "Fabien Frankel",
+          "character": "Ser Criston Cole"
+        },
+        {
+          "actor": "Steve Toussaint",
+          "character": "Lord Corlys Velaryon"
+        },
+        {
+          "actor": "Emma D'Arcy",
+          "character": "Princess Rhaenyra Targaryen"
+        },
+        {
+          "actor": "Sonoya Mizuno",
+          "character": "Mysaria"
+        },
+        {
+          "actor": "Jefferson Hall",
+          "character": "Ser Tyland Lannister"
+        },
+        {
+          "actor": "Matthew Needham",
+          "character": "Lord Larys Strong"
+        },
+        {
+          "actor": "Kurt Egyiawan",
+          "character": "Grand Maester Orwyle"
+        },
+        {
+          "actor": "Olivia Cooke",
+          "character": "Alicent Hightower"
+        },
+        {
+          "actor": "Rhys Ifans",
+          "character": "Otto Hightower"
+        }
+      ]
+    },
+    "Хороший доктор": {
+      "name": "The Good Doctor",
+      "summary": "Shaun Murphy, a young surgeon with autism and savant syndrome, relocates from a quiet country life to join a prestigious hospital's surgical unit. Alone in the world and unable to personally connect with those around him, Shaun uses his extraordinary medical gifts to save lives and challenge the skepticism of his colleagues.",
+      "seasons": 7,
+      "episodes": 126,
+      "status": "Ended",
+      "premiered": "2017-09-25",
+      "ended": "2024-05-21",
+      "genres": [
+        "Drama",
+        "Medical"
+      ],
+      "language": "English",
+      "network": "ABC",
+      "cast": [
+        {
+          "actor": "Freddie Highmore",
+          "character": "Dr. Shaun Murphy"
+        },
+        {
+          "actor": "Richard Schiff",
+          "character": "Dr. Aaron Glassman"
+        },
+        {
+          "actor": "Christina Chang",
+          "character": "Dr. Audrey Lim"
+        },
+        {
+          "actor": "Fiona Gubelmann",
+          "character": "Dr. Morgan Reznick"
+        },
+        {
+          "actor": "Will Yun Lee",
+          "character": "Dr. Alex Park"
+        },
+        {
+          "actor": "Hill Harper",
+          "character": "Dr. Marcus Andrews"
+        },
+        {
+          "actor": "Paige Spara",
+          "character": "Lea Dilallo"
+        },
+        {
+          "actor": "Antonia Thomas",
+          "character": "Dr. Claire Browne"
+        },
+        {
+          "actor": "Bria Henderson",
+          "character": "Dr. Jordan Allen"
+        },
+        {
+          "actor": "Nicholas Gonzalez",
+          "character": "Dr. Neil Melendez"
+        }
+      ]
+    },
+    "Как я встретил вашу маму": {
+      "name": "How I Met Your Mother",
+      "summary": "How I Met Your Mother is a comedy about Ted and how he fell in love. It all starts when Ted's best friend, Marshall drops the bombshell that he's going to propose to his long-time girlfriend, Lilya kindergarten teacher. At that moment, Ted realizes that he had better get a move on if he too hopes to find true love. Helping him in his quest is Barney a friend with endless, sometimes outrageous opinions, a penchant for suits and a foolproof way to meet women. When Ted meets Robin he's sure it's love at first sight, but destiny may have something else in store.",
+      "seasons": 9,
+      "episodes": 208,
+      "status": "Ended",
+      "premiered": "2005-09-19",
+      "ended": "2014-03-31",
+      "genres": [
+        "Drama",
+        "Comedy",
+        "Romance"
+      ],
+      "language": "English",
+      "network": "CBS",
+      "cast": [
+        {
+          "actor": "Josh Radnor",
+          "character": "Ted Mosby"
+        },
+        {
+          "actor": "Jason Segel",
+          "character": "Marshall Eriksen"
+        },
+        {
+          "actor": "Cobie Smulders",
+          "character": "Robin Scherbatsky"
+        },
+        {
+          "actor": "Neil Patrick Harris",
+          "character": "Barney Stinson"
+        },
+        {
+          "actor": "Alyson Hannigan",
+          "character": "Lily Aldrin"
+        },
+        {
+          "actor": "Bob Saget",
+          "character": "Narrator"
+        },
+        {
+          "actor": "Cristin Milioti",
+          "character": "The Mother"
+        }
+      ]
+    },
+    "Лучше звоните Солу": {
+      "name": "Better Call Saul",
+      "summary": "Better Call Saul is the prequel to the award-winning series Breaking Bad, set six years before Saul Goodman became Walter White's lawyer. When we meet him, the man who will become Saul Goodman is known as Jimmy McGill, a small-time lawyer searching for his destiny, and, more immediately, hustling to make ends meet. Working alongside, and often against, Jimmy is \"fixer\" Mike Ehrmantraut, a beloved character introduced in Breaking Bad. The series will track Jimmy's transformation into Saul Goodman, the man who puts \"criminal\" in \"criminal lawyer.",
+      "seasons": 6,
+      "episodes": 63,
+      "status": "Ended",
+      "premiered": "2015-02-08",
+      "ended": "2022-08-15",
+      "genres": [
+        "Drama",
+        "Crime",
+        "Legal"
+      ],
+      "language": "English",
+      "network": "AMC",
+      "cast": [
+        {
+          "actor": "Bob Odenkirk",
+          "character": "Jimmy McGill"
+        },
+        {
+          "actor": "Jonathan Banks",
+          "character": "Michael \"Mike\" Ehrmantraut"
+        },
+        {
+          "actor": "Rhea Seehorn",
+          "character": "Kim Wexler"
+        },
+        {
+          "actor": "Patrick Fabian",
+          "character": "Howard Hamlin"
+        },
+        {
+          "actor": "Michael Mando",
+          "character": "Ignacio \"Nacho\" Varga"
+        },
+        {
+          "actor": "Giancarlo Esposito",
+          "character": "Gustavo \"Gus\" Fring"
+        },
+        {
+          "actor": "Michael McKean",
+          "character": "Chuck McGill"
+        },
+        {
+          "actor": "Tony Dalton",
+          "character": "Eduard \"Lalo\" Salamanca"
+        }
+      ]
+    },
+    "Сопрано": {
+      "name": "The Sopranos",
+      "summary": "The Sopranos , writer-producer-director David Chase's extraordinary television series, is nominally an urban gangster drama, but its true impact strikes closer to home: Like 1999's other screen touchstone, American Beauty, the HBO series chronicles a dysfunctional, suburban American family in bold relief. And for protagonist Tony Soprano, there's the added complexity posed by heading twin families, his collegial mob clan and his own, nouveau riche brood.",
+      "seasons": 6,
+      "episodes": 86,
+      "status": "Ended",
+      "premiered": "1999-01-10",
+      "ended": "2007-06-10",
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "language": "English",
+      "network": "HBO",
+      "cast": [
+        {
+          "actor": "James Gandolfini",
+          "character": "Tony Soprano"
+        },
+        {
+          "actor": "Edie Falco",
+          "character": "Carmela Soprano"
+        },
+        {
+          "actor": "Michael Imperioli",
+          "character": "Christopher Moltisanti"
+        },
+        {
+          "actor": "Steven Van Zandt",
+          "character": "Silvio Dante"
+        },
+        {
+          "actor": "Tony Sirico",
+          "character": "Paulie 'Walnuts' Gualtieri"
+        },
+        {
+          "actor": "Robert Iler",
+          "character": "Anthony Soprano"
+        },
+        {
+          "actor": "Jamie-Lynn Sigler",
+          "character": "Meadow Soprano"
+        },
+        {
+          "actor": "Lorraine Bracco",
+          "character": "Dr. Jennifer Melfi"
+        },
+        {
+          "actor": "Dominic Chianese",
+          "character": "Corrado \"Junior\" Soprano"
+        },
+        {
+          "actor": "Aida Turturro",
+          "character": "Janice Soprano"
+        }
+      ]
+    },
+    "Очень странные дела": {
+      "name": "Stranger Things",
+      "summary": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces and one strange little girl.",
+      "seasons": 5,
+      "episodes": 42,
+      "status": "Ended",
+      "premiered": "2016-07-15",
+      "ended": "2025-12-31",
+      "genres": [
+        "Drama",
+        "Horror",
+        "Science-Fiction"
+      ],
+      "language": "English",
+      "network": "Netflix",
+      "cast": [
+        {
+          "actor": "Winona Ryder",
+          "character": "Joyce Byers"
+        },
+        {
+          "actor": "Caleb McLaughlin",
+          "character": "Lucas Sinclair"
+        },
+        {
+          "actor": "Finn Wolfhard",
+          "character": "Mike Wheeler"
+        },
+        {
+          "actor": "Gaten Matarazzo",
+          "character": "Dustin Henderson"
+        },
+        {
+          "actor": "Natalia Dyer",
+          "character": "Nancy Wheeler"
+        },
+        {
+          "actor": "David Harbour",
+          "character": "Chief Jim Hopper"
+        },
+        {
+          "actor": "Joe Keery",
+          "character": "Steve Harrington"
+        },
+        {
+          "actor": "Charlie Heaton",
+          "character": "Jonathan Byers"
+        },
+        {
+          "actor": "Millie Bobby Brown",
+          "character": "Jane \"Eleven\" Hopper"
+        },
+        {
+          "actor": "Noah Schnapp",
+          "character": "Will Byers"
+        }
+      ]
+    },
+    "Ходячие мертвецы": {
+      "name": "The Walking Dead",
+      "summary": "The Walking Dead tells the story of the months and years that follow after a zombie apocalypse. It follows a group of survivors, led by former police officer Rick Grimes, who travel in search of a safe and secure home. As the world overrun by the dead takes its toll on the survivors, their interpersonal conflicts present a greater danger to their continuing survival than the walkers that roam the country. Over time, the characters are changed by the constant exposure to death and some grow willing to do anything to survive. Based on the comic book series of the same name by Robert Kirkman, Tony Moore, and Charlie Adlard.",
+      "seasons": 11,
+      "episodes": 177,
+      "status": "Ended",
+      "premiered": "2010-10-31",
+      "ended": "2022-11-20",
+      "genres": [
+        "Drama",
+        "Action",
+        "Horror"
+      ],
+      "language": "English",
+      "network": "AMC+",
+      "cast": [
+        {
+          "actor": "Norman Reedus",
+          "character": "Daryl Dixon"
+        },
+        {
+          "actor": "Melissa McBride",
+          "character": "Carol Peletier"
+        },
+        {
+          "actor": "Andrew Lincoln",
+          "character": "Rick Grimes"
+        },
+        {
+          "actor": "Lauren Cohan",
+          "character": "Maggie Greene"
+        },
+        {
+          "actor": "Christian Serratos",
+          "character": "Rosita Espinosa"
+        },
+        {
+          "actor": "Danai Gurira",
+          "character": "Michonne Hawthorne"
+        },
+        {
+          "actor": "Josh McDermitt",
+          "character": "Eugene Porter"
+        },
+        {
+          "actor": "Chandler Riggs",
+          "character": "Carl Grimes"
+        },
+        {
+          "actor": "Seth Gilliam",
+          "character": "Father Gabriel Stokes"
+        },
+        {
+          "actor": "Ross Marquand",
+          "character": "Aaron"
+        }
+      ]
+    },
+    "Сёгун": {
+      "name": "Shōgun",
+      "summary": "Shōgun is set in Japan in the year 1600 at the dawn of a century-defining civil war. Lord Yoshii Toranaga is fighting for his life as his enemies on the Council of Regents unite against him, when a mysterious European ship is found marooned in a nearby fishing village.",
+      "seasons": 1,
+      "episodes": 10,
+      "status": "Running",
+      "premiered": "2024-02-27",
+      "ended": "",
+      "genres": [
+        "Drama",
+        "Adventure",
+        "History"
+      ],
+      "language": "English",
+      "network": "Hulu",
+      "cast": [
+        {
+          "actor": "Cosmo Jarvis",
+          "character": "John Blackthorne"
+        },
+        {
+          "actor": "Anna Sawai",
+          "character": "Toda Mariko"
+        },
+        {
+          "actor": "Tadanobu Asano",
+          "character": "Kashigi Yabushige"
+        },
+        {
+          "actor": "Hiroyuki Sanada",
+          "character": "Yoshii Toranaga"
+        },
+        {
+          "actor": "Takehiro Hira",
+          "character": "Ishido Kazunari"
+        },
+        {
+          "actor": "Fumi Nikaido",
+          "character": "Ochiba no Kata"
+        },
+        {
+          "actor": "Tommy Bastow",
+          "character": "Father Martin Alvito"
+        }
+      ]
+    },
+    "Охотник за разумом": {
+      "name": "MINDHUNTER",
+      "summary": "MINDHUNTER is based on the 1996 book Mind Hunter: Inside the FBI's Elite Serial Crime Unit , by former special agent John Douglas and Mark Olshaker. For years, Douglas pursued some of the most notorious serial killers and rapists, developing profiling techniques to catch them. The book goes behind the scenes of some of his highest-profile cases, including the man who hunted prostitutes in Alaska, the Atlanta child murderer, and Seattle's Green River killer. To hone in his profiling methods Douglas interviewed and studied a skew of serial killers. Several book and TV characters have been based in part on him, including Jack Crawford in Thomas Harris' The Silence of the Lambs , Will Graham on Hannibal and Jason Gideon on Criminal Minds .",
+      "seasons": 2,
+      "episodes": 19,
+      "status": "Ended",
+      "premiered": "2017-10-13",
+      "ended": "2019-08-16",
+      "genres": [
+        "Drama",
+        "Crime",
+        "Thriller"
+      ],
+      "language": "English",
+      "network": "Netflix",
+      "cast": [
+        {
+          "actor": "Holt McCallany",
+          "character": "Bill Tench"
+        },
+        {
+          "actor": "Jonathan Groff",
+          "character": "Holden Ford"
+        },
+        {
+          "actor": "Anna Torv",
+          "character": "Dr. Wendy Carr"
+        },
+        {
+          "actor": "Stacey Roca",
+          "character": "Nancy Tench"
+        },
+        {
+          "actor": "Hannah Gross",
+          "character": "Debbie Mitford"
+        },
+        {
+          "actor": "Zachary Scott Ross",
+          "character": "Brian Tench"
+        },
+        {
+          "actor": "Joe Tuttle",
+          "character": "Gregg Smith"
+        },
+        {
+          "actor": "Cotter Smith",
+          "character": "Unit Chief Shepard"
+        },
+        {
+          "actor": "Albert Jones",
+          "character": "Agent Jim Barney"
+        },
+        {
+          "actor": "Lauren Glazier",
+          "character": "Kay Manz"
+        }
+      ]
+    },
+    "Одни из нас": {
+      "name": "The Last of Us",
+      "summary": "After a global pandemic destroys civilization, a hardened survivor takes charge of a 14-year-old girl who may be humanity's last hope.",
+      "seasons": 2,
+      "episodes": 16,
+      "status": "Running",
+      "premiered": "2023-01-15",
+      "ended": "",
+      "genres": [
+        "Drama",
+        "Action",
+        "Horror"
+      ],
+      "language": "English",
+      "network": "HBO",
+      "cast": [
+        {
+          "actor": "Bella Ramsey",
+          "character": "Ellie Williams"
+        },
+        {
+          "actor": "Pedro Pascal",
+          "character": "Joel Miller"
+        },
+        {
+          "actor": "Gabriel Luna",
+          "character": "Tommy Miller"
+        },
+        {
+          "actor": "Isabela Merced",
+          "character": "Dina"
+        },
+        {
+          "actor": "Young Mazino",
+          "character": "Jesse"
+        }
+      ]
+    },
+    "Киллербот": {
+      "name": "Murderbot",
+      "summary": "Based on Martha Wells' book series The Murderbot Diaries , an action-packed story about self-hacking security android who is horrified by human emotion yet drawn to its vulnerable clients. Murderbot must hide its free will and complete a dangerous assignment when all it really wants is to be left alone to watch futuristic soap operas and figure out its place in the universe.",
+      "seasons": 1,
+      "episodes": 10,
+      "status": "Running",
+      "premiered": "2025-05-16",
+      "ended": "",
+      "genres": [
+        "Comedy",
+        "Action",
+        "Science-Fiction"
+      ],
+      "language": "English",
+      "network": "Apple TV",
+      "cast": [
+        {
+          "actor": "Alexander Skarsgård",
+          "character": "Murderbot"
+        },
+        {
+          "actor": "Noma Dumezweni",
+          "character": "Dr. Ayda Mensah"
+        },
+        {
+          "actor": "Sabrina Wu",
+          "character": "Pin-Lee"
+        },
+        {
+          "actor": "Akshay Khanna",
+          "character": "Ratthi"
+        },
+        {
+          "actor": "Tattiawna Jones",
+          "character": "Dr. Arada"
+        },
+        {
+          "actor": "David Dastmalchian",
+          "character": "Dr. Gurathin"
+        },
+        {
+          "actor": "Tamara Podemski",
+          "character": "Bharadwaj"
+        }
+      ]
+    },
+    "Конец е****го мира": {
+      "name": "The End of the F***ing World",
+      "summary": "Based on the award-winning series of comic books by Charles Forsman, The End of the F***ing World invites viewers into the dark and confusing lives of teen outsiders James and Alyssa as they embark on a road trip to find Alyssa's father, who left home when she was a child.",
+      "seasons": 2,
+      "episodes": 16,
+      "status": "Ended",
+      "premiered": "2017-10-24",
+      "ended": "2019-11-04",
+      "genres": [
+        "Drama",
+        "Comedy",
+        "Adventure"
+      ],
+      "language": "English",
+      "network": "Channel 4",
+      "cast": [
+        {
+          "actor": "Jessica Barden",
+          "character": "Alyssa"
+        },
+        {
+          "actor": "Alex Lawther",
+          "character": "James"
+        }
+      ]
+    },
+    "Чернобыль": {
+      "name": "Chernobyl",
+      "summary": "Chernobyl dramatizes the true story of one of the worst man-made catastrophes in history and tells of the brave men and women who sacrificed to save Europe from unimaginable disaster. The miniseries focuses on the heartbreaking scope of the nuclear plant disaster that occurred in Ukraine in April 1986, revealing how and why it happened and telling the shocking, remarkable stories of the heroes who fought and fell.",
+      "seasons": 1,
+      "episodes": 5,
+      "status": "Ended",
+      "premiered": "2019-05-06",
+      "ended": "2019-06-03",
+      "genres": [
+        "Drama",
+        "History"
+      ],
+      "language": "English",
+      "network": "HBO",
+      "cast": [
+        {
+          "actor": "Jared Harris",
+          "character": "Valery Legasov"
+        },
+        {
+          "actor": "Stellan Skarsgård",
+          "character": "Boris Shcherbina"
+        },
+        {
+          "actor": "Jessie Buckley",
+          "character": "Lyudmilla Ignatenko"
+        },
+        {
+          "actor": "Emily Watson",
+          "character": "Ulana Khomyuk"
+        },
+        {
+          "actor": "Paul Ritter",
+          "character": "Anatoly Dyatlov"
+        },
+        {
+          "actor": "Sam Troughton",
+          "character": "Alexandr Akimov"
+        },
+        {
+          "actor": "Adam Nagaitis",
+          "character": "Vasily Ignatenko"
+        },
+        {
+          "actor": "Robert Emms",
+          "character": "Leonid Toptunov"
+        },
+        {
+          "actor": "Adrian Rawlins",
+          "character": "Nikolai Fomin"
+        },
+        {
+          "actor": "Con O'Neill",
+          "character": "Viktor Bryukhanov"
+        }
+      ]
+    },
+    "Алиса в Пограничье": {
+      "name": "Alice in Borderland",
+      "summary": "With his two friends, a video-game-obsessed young man finds himself in a strange version of Tokyo where they must compete in dangerous games to survive. Every episode lists different main cast in the opening sequence (beside the two main which are there throughout the entire series).",
+      "seasons": 3,
+      "episodes": 22,
+      "status": "Ended",
+      "premiered": "2020-12-10",
+      "ended": "2025-09-25",
+      "genres": [
+        "Science-Fiction",
+        "Thriller",
+        "Mystery"
+      ],
+      "language": "Japanese",
+      "network": "Netflix",
+      "cast": [
+        {
+          "actor": "Kento Yamazaki",
+          "character": "Ryohei Arisu / Alice"
+        },
+        {
+          "actor": "Tao Tsuchiya",
+          "character": "Yuzuha Usagi / Rabbit"
+        },
+        {
+          "actor": "Aya Asahina",
+          "character": "Hikari Kuina"
+        },
+        {
+          "actor": "Ayaka Miyoshi",
+          "character": "Ann Rizuna"
+        },
+        {
+          "actor": "Nijiro Murakami",
+          "character": "Shuntaro Chishiya"
+        },
+        {
+          "actor": "Dori Sakurada",
+          "character": "Suguru Niragi"
+        },
+        {
+          "actor": "Sho Aoyagi",
+          "character": "Aguni Morizono"
+        },
+        {
+          "actor": "Yutaro Watanabe",
+          "character": "Kodai Tatta"
+        },
+        {
+          "actor": "Nobuaki Kaneko",
+          "character": "Takeru / Hatter"
+        },
+        {
+          "actor": "Riisa Naka",
+          "character": "Mira Kano"
+        }
+      ]
+    },
+    "Шерлок": {
+      "name": "Sherlock",
+      "summary": "Sherlock Holmes and Dr. John Watson's adventures in 21st Century London. A thrilling, funny, fast-paced contemporary reimagining of the Arthur Conan Doyle classic.",
+      "seasons": 4,
+      "episodes": 12,
+      "status": "Ended",
+      "premiered": "2010-07-25",
+      "ended": "2017-01-15",
+      "genres": [
+        "Drama",
+        "Crime",
+        "Mystery"
+      ],
+      "language": "English",
+      "network": "BBC One",
+      "cast": [
+        {
+          "actor": "Benedict Cumberbatch",
+          "character": "Sherlock Holmes"
+        },
+        {
+          "actor": "Martin Freeman",
+          "character": "Dr. John Watson"
+        }
+      ]
+    },
+    "Гангстерленд": {
+      "name": "MobLand",
+      "summary": "With the most powerful clients in Europe, MobLand will see family fortunes and reputations at risk, odd alliances unfold, and betrayal around every corner; and while the family might be London's most elite fixers today, the nature of their business means there is no guarantee what's in store tomorrow. MobLand follows two generations of gangsters, the businesses they run, the complex relationships they weave and the man they call upon to fix their problem.",
+      "seasons": 1,
+      "episodes": 10,
+      "status": "Running",
+      "premiered": "2025-03-30",
+      "ended": "",
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "language": "English",
+      "network": "Paramount+",
+      "cast": [
+        {
+          "actor": "Tom Hardy",
+          "character": "Harry Da Souza"
+        },
+        {
+          "actor": "Pierce Brosnan",
+          "character": "Conrad Harrigan"
+        },
+        {
+          "actor": "Helen Mirren",
+          "character": "Maeve Harrigan"
+        },
+        {
+          "actor": "Geoff Bell",
+          "character": "Richie Stevenson"
+        },
+        {
+          "actor": "Paddy Considine",
+          "character": "Kevin Harrigan"
+        },
+        {
+          "actor": "Joanne Froggatt",
+          "character": "Jan Da Souza"
+        },
+        {
+          "actor": "Lara Pulver",
+          "character": "Bella Harrigan"
+        },
+        {
+          "actor": "Anson Boon",
+          "character": "Eddie Harrigan"
+        },
+        {
+          "actor": "Mandeep Dhillon",
+          "character": "Seraphina Harrigan"
+        },
+        {
+          "actor": "Jasmine Jobson",
+          "character": "Zosia"
+        }
+      ]
+    },
+    "Бумажный дом": {
+      "name": "La Casa de Papel",
+      "summary": "A group of very peculiar robbers have assaulted the Factory of Moneda and Timbre to carry out the most perfect robbery in the history of Spain and taking home 2,400 million euros.",
+      "seasons": 4,
+      "episodes": 41,
+      "status": "Ended",
+      "premiered": "2017-05-02",
+      "ended": "2021-12-03",
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "language": "Spanish",
+      "network": "Netflix",
+      "cast": [
+        {
+          "actor": "Darko Peric",
+          "character": "Helsinki"
+        },
+        {
+          "actor": "Jaime Lorente",
+          "character": "Denver"
+        },
+        {
+          "actor": "Miguel Herrán",
+          "character": "Río"
+        },
+        {
+          "actor": "Úrsula Corberó",
+          "character": "Tokio"
+        },
+        {
+          "actor": "Álvaro Morte",
+          "character": "El Profesor"
+        },
+        {
+          "actor": "Esther Acebo",
+          "character": "Mónica Gaztambide"
+        },
+        {
+          "actor": "Pedro Alonso",
+          "character": "Berlín"
+        },
+        {
+          "actor": "Itziar Ituño",
+          "character": "Raquel Murillo"
+        },
+        {
+          "actor": "Enrique Arce",
+          "character": "Arturo Román"
+        },
+        {
+          "actor": "Alba Flores",
+          "character": "Nairobi"
+        }
+      ]
+    },
+    "Фоллаут": {
+      "name": "Fallout",
+      "summary": "Based on one of the greatest video game series of all time, Fallout is the story of haves and have nots in a world in which there's almost nothing left to have. 200 years after the apocalypse, a peaceful denizen from a cozy fallout shelter is forced to return to the surface and is shocked to discover the wasteland waiting for her.",
+      "seasons": 2,
+      "episodes": 16,
+      "status": "Running",
+      "premiered": "2024-04-10",
+      "ended": "",
+      "genres": [
+        "Drama",
+        "Action",
+        "Science-Fiction"
+      ],
+      "language": "English",
+      "network": "Prime Video",
+      "cast": [
+        {
+          "actor": "Walton Goggins",
+          "character": "The Ghoul / Cooper Howard"
+        },
+        {
+          "actor": "Ella Purnell",
+          "character": "Lucy MacLean"
+        },
+        {
+          "actor": "Aaron Moten",
+          "character": "Maximus"
+        },
+        {
+          "actor": "Moises Arias",
+          "character": "Norm MacLean"
+        },
+        {
+          "actor": "Frances Turner",
+          "character": "Barb Howard"
+        },
+        {
+          "actor": "Kyle MacLachlan",
+          "character": "Overseer Hank MacLean"
+        },
+        {
+          "actor": "Xelia Mendes-Jones",
+          "character": "Dane"
+        }
+      ]
+    },
+    "Пингвин": {
+      "name": "The Penguin",
+      "summary": "Starring Colin Farrell as Oz Cobb (aka The Penguin), the DC Studios series continues filmmaker Matt Reeves' The Batman epic crime saga that began with Warner Bros. Pictures' global blockbuster The Batman . Developed by showrunner Lauren LeFranc, the series centers on the character played by Farrell in the film.",
+      "seasons": 1,
+      "episodes": 8,
+      "status": "Ended",
+      "premiered": "2024-09-19",
+      "ended": "2024-11-10",
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "language": "English",
+      "network": "HBO",
+      "cast": [
+        {
+          "actor": "Colin Farrell",
+          "character": "Oswald \"Oz\" Cobb"
+        },
+        {
+          "actor": "Cristin Milioti",
+          "character": "Sofia Falcone"
+        },
+        {
+          "actor": "Rhenzy Feliz",
+          "character": "Victor Aguilar"
+        },
+        {
+          "actor": "Deirdre O'Connell",
+          "character": "Francis Cobb"
+        },
+        {
+          "actor": "Carmen Ejogo",
+          "character": "Eve Karlo"
+        },
+        {
+          "actor": "Theo Rossi",
+          "character": "Dr. Julian Rush"
+        },
+        {
+          "actor": "Michael Kelly",
+          "character": "Johnny Viti"
+        },
+        {
+          "actor": "Clancy Brown",
+          "character": "Salvatore Maroni"
+        },
+        {
+          "actor": "David H. Holmes",
+          "character": "Nick Fuchs"
+        },
+        {
+          "actor": "Daniel J. Watts",
+          "character": "Bruno Tess"
+        }
+      ]
+    },
+    "Укрытие": {
+      "name": "Silo",
+      "summary": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo .",
+      "seasons": 3,
+      "episodes": 30,
+      "status": "Running",
+      "premiered": "2023-05-05",
+      "ended": "",
+      "genres": [
+        "Drama",
+        "Science-Fiction",
+        "Mystery"
+      ],
+      "language": "English",
+      "network": "Apple TV",
+      "cast": [
+        {
+          "actor": "Rebecca Ferguson",
+          "character": "Juliette Nichols"
+        },
+        {
+          "actor": "Tim Robbins",
+          "character": "Bernard Holland"
+        },
+        {
+          "actor": "Common",
+          "character": "Robert Sims"
+        },
+        {
+          "actor": "Harriet Walter",
+          "character": "Martha Walker"
+        },
+        {
+          "actor": "Chinaza Uche",
+          "character": "Paul Billings"
+        },
+        {
+          "actor": "Avi Nash",
+          "character": "Lukas Kyle"
+        },
+        {
+          "actor": "Billy Postlethwaite",
+          "character": "Hank"
+        },
+        {
+          "actor": "Remmie Milner",
+          "character": "Shirley Campbell"
+        },
+        {
+          "actor": "Shane McRae",
+          "character": "Knox"
+        },
+        {
+          "actor": "Rick Gomez",
+          "character": "Patrick Kennedy"
+        }
+      ]
+    },
+    "Половое воспитание": {
+      "name": "Sex Education",
+      "summary": "Insecure Otis has all the answers when it comes to sex advice, thanks to his therapist mom. So rebel Maeve proposes a school sex-therapy clinic.",
+      "seasons": 4,
+      "episodes": 32,
+      "status": "Ended",
+      "premiered": "2019-01-11",
+      "ended": "2023-09-21",
+      "genres": [
+        "Drama",
+        "Comedy",
+        "Romance"
+      ],
+      "language": "English",
+      "network": "Netflix",
+      "cast": [
+        {
+          "actor": "Asa Butterfield",
+          "character": "Otis Milburn"
+        },
+        {
+          "actor": "Gillian Anderson",
+          "character": "Dr. Jean Milburn"
+        }
+      ]
+    },
+    "Игра в кальмара": {
+      "name": "Squid Game",
+      "summary": "Hundreds of cash-strapped players accept a strange invitation to compete in children's games. Inside, a tempting prize awaits — with deadly high stakes.",
+      "seasons": 3,
+      "episodes": 22,
+      "status": "Ended",
+      "premiered": "2021-09-17",
+      "ended": "2025-06-27",
+      "genres": [
+        "Drama",
+        "Thriller",
+        "Mystery"
+      ],
+      "language": "Korean",
+      "network": "Netflix",
+      "cast": [
+        {
+          "actor": "Lee Jung Jae",
+          "character": "Sung Gi Hun"
+        },
+        {
+          "actor": "Wi Ha Joon",
+          "character": "Hwang Joon Ho"
+        },
+        {
+          "actor": "Lee Byung Hun",
+          "character": "Front Man"
+        },
+        {
+          "actor": "Park Hae Soo",
+          "character": "Jo Sang Woo"
+        },
+        {
+          "actor": "Jung Ho Yun",
+          "character": "Kang Sae Byuk"
+        },
+        {
+          "actor": "Oh Young Soo",
+          "character": "Oh Il Nam"
+        },
+        {
+          "actor": "Im Si Wan",
+          "character": "Lee Myung Gi"
+        },
+        {
+          "actor": "Lee Jin Wook",
+          "character": "Park Kyung Suk"
+        },
+        {
+          "actor": "Heo Sung Tae",
+          "character": "Jang Duk Soo"
+        },
+        {
+          "actor": "Jo Yu Ri",
+          "character": "Kim Jun Hee"
+        }
+      ]
+    },
+    "Первозданная Америка": {
+      "name": "American Primeval",
+      "summary": "A raw, adventurous exploration of the birth of the American West. The violent collisions of cultures, religions and communities as men and women fight and die for control of this new world – for a land they truly believe is their destiny. The ensemble tells a story of the sacrifice all must pay when they choose to enter a lawless and untamed wilderness.",
+      "seasons": 1,
+      "episodes": 6,
+      "status": "Ended",
+      "premiered": "2025-01-09",
+      "ended": "2025-01-09",
+      "genres": [
+        "Drama",
+        "Action",
+        "Western"
+      ],
+      "language": "English",
+      "network": "Netflix",
+      "cast": [
+        {
+          "actor": "Taylor Kitsch",
+          "character": "Isaac Reed"
+        },
+        {
+          "actor": "Betty Gilpin",
+          "character": "Sara Rowell"
+        },
+        {
+          "actor": "Dane DeHaan",
+          "character": "Jacob Pratt"
+        },
+        {
+          "actor": "Shea Whigham",
+          "character": "Jim Bridger"
+        },
+        {
+          "actor": "Joe Tippett",
+          "character": "James Wolsey"
+        },
+        {
+          "actor": "Jai Courtney",
+          "character": "Virgil Cutter"
+        },
+        {
+          "actor": "Derek Hinkey",
+          "character": "Red Feather"
+        },
+        {
+          "actor": "Saura Lightfoot Leon",
+          "character": "Abish Pratt"
+        },
+        {
+          "actor": "Preston Mota",
+          "character": "Devin Rowell"
+        },
+        {
+          "actor": "Shawnee Pourier",
+          "character": "Two Moons"
+        }
+      ]
+    },
+    "Озарк": {
+      "name": "Ozark",
+      "summary": "In this dark, dangerous series, a family struggles after moving to an Ozarks resort community when they're thrust into a world of dirty money.",
+      "seasons": 4,
+      "episodes": 44,
+      "status": "Ended",
+      "premiered": "2017-07-21",
+      "ended": "2022-04-29",
+      "genres": [
+        "Drama",
+        "Crime",
+        "Thriller"
+      ],
+      "language": "English",
+      "network": "Netflix",
+      "cast": [
+        {
+          "actor": "Jason Bateman",
+          "character": "Marty Byrde"
+        },
+        {
+          "actor": "Laura Linney",
+          "character": "Wendy Byrde"
+        },
+        {
+          "actor": "Sofia Hublitz",
+          "character": "Charlotte Byrde"
+        },
+        {
+          "actor": "Skylar Gaertner",
+          "character": "Jonah Byrde"
+        },
+        {
+          "actor": "Julia Garner",
+          "character": "Ruth Langmore"
+        },
+        {
+          "actor": "Charlie Tahan",
+          "character": "Wyatt Langmore"
+        },
+        {
+          "actor": "Lisa Emery",
+          "character": "Darlene Snell"
+        },
+        {
+          "actor": "Felix Solis",
+          "character": "Omar Navarro"
+        },
+        {
+          "actor": "Jason Butler Harner",
+          "character": "Roy Petty"
+        },
+        {
+          "actor": "Jordana Spiro",
+          "character": "Rachel Garrison"
+        }
+      ]
+    },
+    "Американская семейка": {
+      "name": "Modern Family",
+      "summary": "Modern Family revolves around three different types of families (nuclear, step- and same-sex) living in the Los Angeles area, who are interrelated through Jay Pritchett and his children, Claire Dunphy (née Pritchett) and Mitchell Pritchett. Patriarch Jay is remarried to a much younger woman, Gloria Delgado Pritchett (née Ramirez), a passionate Colombian with whom he has an infant son, Fulgencio (Joe) Pritchett, and a son from Gloria's previous marriage, Manny Delgado. Jay's daughter Claire was a homemaker, but has returned to the business world. She is now the chief executive of her father's previous business, Pritchett's Closets and Blinds. She is married to Phil Dunphy, a realtor and self-professed \"cool dad\". They have three children: Haley Dunphy, a stereotypical ditzy teenage girl; Alex Dunphy, a nerdy, smart middle child; and Luke Dunphy, the off-beat only son. Jay's lawyer son Mitchell and his husband Cameron Tucker have one daughter, Lily Tucker-Pritchett. As the name suggests, this family represents a modern-day family, and episodes are comically based on situations which many families encounter in real life.",
+      "seasons": 11,
+      "episodes": 250,
+      "status": "Ended",
+      "premiered": "2009-09-23",
+      "ended": "2020-04-08",
+      "genres": [
+        "Comedy",
+        "Family"
+      ],
+      "language": "English",
+      "network": "ABC",
+      "cast": [
+        {
+          "actor": "Ed O'Neill",
+          "character": "Jay Pritchett"
+        },
+        {
+          "actor": "Sofía Vergara",
+          "character": "Gloria Delgado-Pritchett"
+        },
+        {
+          "actor": "Julie Bowen",
+          "character": "Claire Dunphy"
+        },
+        {
+          "actor": "Ty Burrell",
+          "character": "Phil Dunphy"
+        },
+        {
+          "actor": "Jesse Tyler Ferguson",
+          "character": "Mitchell Pritchett"
+        },
+        {
+          "actor": "Eric Stonestreet",
+          "character": "Cameron Tucker"
+        },
+        {
+          "actor": "Rico Rodriguez",
+          "character": "Manny Delgado"
+        },
+        {
+          "actor": "Nolan Gould",
+          "character": "Luke Dunphy"
+        },
+        {
+          "actor": "Sarah Hyland",
+          "character": "Haley Dunphy"
+        },
+        {
+          "actor": "Ariel Winter",
+          "character": "Alex Dunphy"
+        }
+      ]
+    },
+    "Остаться в живых": {
+      "name": "Lost",
+      "summary": "Out of the blackness, the first thing Jack senses is pain. Then burning sun. A Bamboo forest. Smoke. Screams. With a rush comes the horrible awareness that the plane he was on tore apart in mid-air and crashed on a Pacific island. From there it's a blur, as his doctor's instinct kicks in: people need his help. Stripped of everything, the 48 survivors scavenge what they can from the plane for their survival. Some panic. Some pin their hopes on rescue. A few find inner strength they never knew they had -- like Kate, who, with no medical training, suddenly finds herself suturing the doctor's wounds. Hurley - a man with a warm sense of humor despite the desperate situation - does his best to keep his cool as he helps those around him to survive. Charlie is a faded rock star who harbors a painful secret. Sayid is a Middle Eastern man who must wrestle with the racial profiling directed at him by some of his fellow survivors. Jin and Sun are a Korean couple whose traditions, values and language are foreign, and thus causes much to get lost in the translation. Sawyer has an air of danger surrounding him, and his intense sense of mistrust for everyone around him could prove to be fatal to his fellow castaways. Michael has just gained custody of his nine-year-old son, Walt, after the death of his ex-wife - they are a father and son who don't even know each other. Locke is a mysterious man who keeps to himself, and who harbors a deeper connection to the island than any of the others. Self-centered Shannon - who actually gives herself a pedicure amid the chaos - and her estranged controlling brother, Boone , constantly bicker and must learn to get along if they are to survive. And young Claire is eight months pregnant and ill-prepared for the hardships of motherhood - especially on a deserted island.",
+      "seasons": 6,
+      "episodes": 121,
+      "status": "Ended",
+      "premiered": "2004-09-22",
+      "ended": "2010-05-23",
+      "genres": [
+        "Drama",
+        "Adventure",
+        "Supernatural"
+      ],
+      "language": "English",
+      "network": "ABC",
+      "cast": [
+        {
+          "actor": "Matthew Fox",
+          "character": "Dr. Jack Shephard"
+        },
+        {
+          "actor": "Evangeline Lilly",
+          "character": "Katherine \"Kate\" Austen"
+        },
+        {
+          "actor": "Jorge Garcia",
+          "character": "Hugo \"Hurley\" Reyes"
+        },
+        {
+          "actor": "Josh Holloway",
+          "character": "James \"Sawyer\" Ford"
+        },
+        {
+          "actor": "Terry O'Quinn",
+          "character": "John Locke"
+        },
+        {
+          "actor": "Naveen Andrews",
+          "character": "Sayid Jarrah"
+        },
+        {
+          "actor": "Daniel Dae Kim",
+          "character": "Jin Soo Kwon"
+        },
+        {
+          "actor": "Kim Yoon Jin",
+          "character": "Sun Hwa Kwon"
+        },
+        {
+          "actor": "Emilie de Ravin",
+          "character": "Claire Littleton"
+        },
+        {
+          "actor": "Dominic Monaghan",
+          "character": "Charlie Pace"
+        }
+      ]
+    },
+    "Форс-мажоры": {
+      "name": "Suits",
+      "summary": "Suits delves into the fast-paced, high-stakes world of a top Manhattan corporate law firm where hotshot associate Harvey Specter makes a risky move by hiring Mike Ross a brilliant but unmotivated college dropout, as his associate. As he becomes enmeshed in this unfamiliar world, Mike relies heavily on the firm's best paralegal Rachel Zane and Harvey's no-nonsense assistant Donna Paulsen to help him serve justice. With a photographic memory and the street smarts of a hustler, Mike proves to be a legal prodigy despite the absence of bonafide legal credentials.",
+      "seasons": 9,
+      "episodes": 134,
+      "status": "Ended",
+      "premiered": "2011-06-23",
+      "ended": "2019-09-25",
+      "genres": [
+        "Drama",
+        "Legal"
+      ],
+      "language": "English",
+      "network": "USA Network",
+      "cast": [
+        {
+          "actor": "Gabriel Macht",
+          "character": "Harvey Specter"
+        },
+        {
+          "actor": "Rick Hoffman",
+          "character": "Louis Litt"
+        },
+        {
+          "actor": "Sarah Rafferty",
+          "character": "Donna Paulsen"
+        },
+        {
+          "actor": "Patrick J. Adams",
+          "character": "Mike Ross"
+        },
+        {
+          "actor": "Meghan Markle",
+          "character": "Rachel Zane"
+        },
+        {
+          "actor": "Gina Torres",
+          "character": "Jessica Pearson"
+        },
+        {
+          "actor": "Amanda Schull",
+          "character": "Katrina Bennett"
+        },
+        {
+          "actor": "Dulé Hill",
+          "character": "Alex Williams"
+        },
+        {
+          "actor": "Katherine Heigl",
+          "character": "Samantha Wheeler"
+        }
+      ]
+    },
+    "Настоящий детектив": {
+      "name": "True Detective",
+      "summary": "Touch darkness and darkness touches you back. True Detective centers on troubled cops and the investigations that drive them to the edge. Each season features a new cast and a new case. True Detective is an American anthology crime drama television series created and written by Nic Pizzolatto.",
+      "seasons": 4,
+      "episodes": 30,
+      "status": "Running",
+      "premiered": "2014-01-12",
+      "ended": "",
+      "genres": [
+        "Drama",
+        "Crime",
+        "Thriller"
+      ],
+      "language": "English",
+      "network": "HBO",
+      "cast": [
+        {
+          "actor": "Michelle Monaghan",
+          "character": "Maggie Hart"
+        },
+        {
+          "actor": "Michael Potts",
+          "character": "Det. Maynard Gilbough"
+        },
+        {
+          "actor": "Tory Kittles",
+          "character": "Det. Thomas Papania"
+        },
+        {
+          "actor": "Colin Farrell",
+          "character": "Det. Ray Velcoro"
+        },
+        {
+          "actor": "Vince Vaughn",
+          "character": "Frank Semyon"
+        },
+        {
+          "actor": "Matthew McConaughey",
+          "character": "Det. Rustin Cohle"
+        },
+        {
+          "actor": "Woody Harrelson",
+          "character": "Det. Martin Hart"
+        },
+        {
+          "actor": "Taylor Kitsch",
+          "character": "Paul Woodrugh"
+        },
+        {
+          "actor": "Rachel McAdams",
+          "character": "Ani Bezzerides"
+        },
+        {
+          "actor": "Kelly Reilly",
+          "character": "Jordan Semyon"
+        }
+      ]
+    },
+    "Викинги": {
+      "name": "Vikings",
+      "summary": "Vikings transports us to the brutal and mysterious world of Ragnar Lothbrok, a Viking warrior and farmer who yearns to explore - and raid - the distant shores across the ocean.",
+      "seasons": 6,
+      "episodes": 89,
+      "status": "Ended",
+      "premiered": "2013-03-03",
+      "ended": "2021-03-05",
+      "genres": [
+        "Drama",
+        "Action",
+        "History"
+      ],
+      "language": "English",
+      "network": "History",
+      "cast": [
+        {
+          "actor": "Katheryn Winnick",
+          "character": "Lagertha"
+        },
+        {
+          "actor": "Gustaf Skarsgård",
+          "character": "Floki"
+        },
+        {
+          "actor": "Alexander Ludwig",
+          "character": "Bjorn Ironside"
+        },
+        {
+          "actor": "Georgia Hirst",
+          "character": "Torvi"
+        },
+        {
+          "actor": "Alex Høgh Andersen",
+          "character": "Ivar the Boneless"
+        },
+        {
+          "actor": "Marco Ilsø",
+          "character": "Hvitserk"
+        },
+        {
+          "actor": "Jordan Patrick Smith",
+          "character": "Ubbe"
+        },
+        {
+          "actor": "Peter Franzén",
+          "character": "King Harald Finehair"
+        },
+        {
+          "actor": "Travis Fimmel",
+          "character": "Ragnar Lothbrok"
+        },
+        {
+          "actor": "Clive Standen",
+          "character": "Rollo"
+        }
+      ]
+    },
+    "Бесстыжие": {
+      "name": "Shameless",
+      "summary": "Shameless is a fiercely engaging and fearlessly twisted series. Chicagoan Frank Gallagher is the proud single dad of six smart, industrious, independent kids, who without him would be... perhaps better off. When Frank's not at the bar spending what little money they have, he's passed out on the floor. But the kids have found ways to grow up in spite of him. They may not be like any family you know, but they make no apologies for being exactly who they are.",
+      "seasons": 11,
+      "episodes": 134,
+      "status": "Ended",
+      "premiered": "2011-01-09",
+      "ended": "2021-04-11",
+      "genres": [
+        "Drama",
+        "Comedy",
+        "Family"
+      ],
+      "language": "English",
+      "network": "Paramount+ with Showtime",
+      "cast": [
+        {
+          "actor": "William H. Macy",
+          "character": "Frank Gallagher"
+        },
+        {
+          "actor": "Steve Howey",
+          "character": "Kevin Ball"
+        },
+        {
+          "actor": "Emma Kenney",
+          "character": "Debbie Gallagher"
+        },
+        {
+          "actor": "Jeremy Allen White",
+          "character": "Phillip \"Lip\" Gallagher"
+        },
+        {
+          "actor": "Shanola Hampton",
+          "character": "Veronica Fisher"
+        },
+        {
+          "actor": "Ethan Cutkosky",
+          "character": "Carl Gallagher"
+        },
+        {
+          "actor": "Cameron Monaghan",
+          "character": "Ian Gallagher"
+        },
+        {
+          "actor": "Emmy Rossum",
+          "character": "Fiona Gallagher"
+        },
+        {
+          "actor": "Christian Isaiah",
+          "character": "Liam Gallagher"
+        },
+        {
+          "actor": "Noel Fisher",
+          "character": "Mickey Milkovich"
+        }
+      ]
+    },
+    "Уэнздей": {
+      "name": "Wednesday",
+      "summary": "Smart, sarcastic and a little dead inside, Wednesday Addams investigates a murder spree while making new friends — and foes — at Nevermore Academy.",
+      "seasons": 2,
+      "episodes": 16,
+      "status": "Running",
+      "premiered": "2022-11-23",
+      "ended": "",
+      "genres": [
+        "Comedy",
+        "Mystery",
+        "Supernatural"
+      ],
+      "language": "English",
+      "network": "Netflix",
+      "cast": [
+        {
+          "actor": "Jenna Ortega",
+          "character": "Wednesday Addams"
+        },
+        {
+          "actor": "Hunter Doohan",
+          "character": "Tyler Galpin"
+        },
+        {
+          "actor": "Georgie Farmer",
+          "character": "Ajax Petropolus"
+        },
+        {
+          "actor": "Emma Myers",
+          "character": "Enid Sinclair"
+        },
+        {
+          "actor": "Joy Sunday",
+          "character": "Bianca Barclay"
+        },
+        {
+          "actor": "Victor Dorobantu",
+          "character": "Thing"
+        },
+        {
+          "actor": "Moosa Mostafa",
+          "character": "Eugene Otinger"
+        },
+        {
+          "actor": "Luyanda Unati Lewis-Nyawo",
+          "character": "Deputy Ritchie Santiago"
+        },
+        {
+          "actor": "Jamie McShane",
+          "character": "Sheriff Donovan Galpin"
+        },
+        {
+          "actor": "Gwendoline Christie",
+          "character": "Principal Larissa Weems"
+        }
+      ]
+    },
+    "Два с половиной человека": {
+      "name": "Two and a Half Men",
+      "summary": "Charlie is a well-to-do bachelor with a house at the beach, a Jaguar in the front, and an easy way with women. His casual Malibu lifestyle is interrupted when his tightly wound brother Alan, who's facing a divorce, and his son Jake, come to live with him. Together, these two and a half men confront the challenges of growing up; finally. Complicating matters are the brothers' self-obsessed, controlling mother, Evelyn, Alan's estranged wife, Judith and Charlie's crazy neighbor Rose, who wants to be a part of his life and is willing to do anything to be around. After the death of his brother, Alan Harper meets and befriends a lonely young man named Walden Schmidt who turns out to be a billionaire. Unable to afford his brother's home, Alan sells Walden the house, and as a way of showing his gratitude, Walden allows Alan and his son Jake to move in with him.",
+      "seasons": 12,
+      "episodes": 262,
+      "status": "Ended",
+      "premiered": "2003-09-22",
+      "ended": "2015-02-19",
+      "genres": [
+        "Comedy"
+      ],
+      "language": "English",
+      "network": "CBS",
+      "cast": [
+        {
+          "actor": "Jon Cryer",
+          "character": "Alan Harper"
+        },
+        {
+          "actor": "Angus T. Jones",
+          "character": "Jake Harper"
+        },
+        {
+          "actor": "Conchata Ferrell",
+          "character": "Berta"
+        },
+        {
+          "actor": "Charlie Sheen",
+          "character": "Charlie Harper"
+        },
+        {
+          "actor": "Holland Taylor",
+          "character": "Evelyn Harper"
+        },
+        {
+          "actor": "Ashton Kutcher",
+          "character": "Walden Schmidt"
+        },
+        {
+          "actor": "Marin Hinkle",
+          "character": "Judith"
+        },
+        {
+          "actor": "Melanie Lynskey",
+          "character": "Rose"
+        },
+        {
+          "actor": "Jennifer Taylor",
+          "character": "Chelsea"
+        },
+        {
+          "actor": "Amber Tamblyn",
+          "character": "Jenny"
+        }
+      ]
+    },
+    "Карточный домик": {
+      "name": "House of Cards",
+      "summary": "Based on the BBC miniseries of the same name, House of Cards follows Francis Underwood, the politician's politician – masterful, beguiling, charismatic and ruthless. He and his equally ambitious wife Claire will stop at nothing to ensure their ascendancy. This wicked political drama slithers beneath the curtain and through the back halls of greed, sex, love and corruption in modern Washington D.C.",
+      "seasons": 6,
+      "episodes": 73,
+      "status": "Ended",
+      "premiered": "2013-02-01",
+      "ended": "2018-11-02",
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "language": "English",
+      "network": "Netflix",
+      "cast": [
+        {
+          "actor": "Robin Wright",
+          "character": "Claire Underwood"
+        },
+        {
+          "actor": "Michael Kelly",
+          "character": "Doug Stamper"
+        },
+        {
+          "actor": "Kevin Spacey",
+          "character": "Frank Underwood"
+        },
+        {
+          "actor": "Derek Cecil",
+          "character": "Seth Grayson"
+        },
+        {
+          "actor": "Jayne Atkinson",
+          "character": "Catherine Durant"
+        },
+        {
+          "actor": "Nathan Darrow",
+          "character": "Edward Meechum"
+        },
+        {
+          "actor": "Mahershala Ali",
+          "character": "Remy Danton"
+        },
+        {
+          "actor": "Boris McGiver",
+          "character": "Tom Hammerschmidt"
+        },
+        {
+          "actor": "Paul Sparks",
+          "character": "Thomas Yates"
+        },
+        {
+          "actor": "Molly Parker",
+          "character": "Jackie Sharp"
+        }
+      ]
+    },
+    "Пацаны": {
+      "name": "The Boys",
+      "summary": "In a world where superheroes embrace the darker side of their massive celebrity and fame, The Boys centres on a group of vigilantes known informally as \"The Boys,\" who set out to take down corrupt superheroes with no more than blue collar grit and a willingness to fight dirty.",
+      "seasons": 5,
+      "episodes": 40,
+      "status": "Ended",
+      "premiered": "2019-07-26",
+      "ended": "2026-05-20",
+      "genres": [
+        "Action",
+        "Fantasy",
+        "Adult"
+      ],
+      "language": "English",
+      "network": "Prime Video",
+      "cast": [
+        {
+          "actor": "Karl Urban",
+          "character": "William \"Billy\" Butcher"
+        },
+        {
+          "actor": "Erin Moriarty",
+          "character": "Annie January / Starlight"
+        },
+        {
+          "actor": "Antony Starr",
+          "character": "John / Homelander"
+        },
+        {
+          "actor": "Chace Crawford",
+          "character": "Kevin Moskowitz / The Deep"
+        },
+        {
+          "actor": "Jack Quaid",
+          "character": "Hughie Campbell"
+        },
+        {
+          "actor": "Tomer Capone",
+          "character": "Serge / Frenchie"
+        },
+        {
+          "actor": "Laz Alonso",
+          "character": "Marvin \"M.M.\" Milk / Mother's Milk"
+        },
+        {
+          "actor": "Karen Fukuhara",
+          "character": "Kimiko Miyashiro / The Female"
+        },
+        {
+          "actor": "Colby Minifie",
+          "character": "Ashley Barrett"
+        },
+        {
+          "actor": "Jessie T. Usher",
+          "character": "Reggie Franklin / A-Train"
+        }
+      ]
+    },
+    "Йеллоустоун": {
+      "name": "Yellowstone",
+      "summary": "Yellowstone follows the Dutton family, led by John Dutton, who controls the largest contiguous ranch in the United States, under constant attack by those it borders — land developers, an Indian reservation, and America's first National Park. It is an intense study of a violent world far from media scrutiny — where land grabs make developers billions, and politicians are bought and sold by the world's largest oil and lumber corporations. Where drinking water poisoned by fracking wells and unsolved murders are not news: they are a consequence of living in the new frontier. It is the best and worst of America seen through the eyes of a family that represents both.",
+      "seasons": 5,
+      "episodes": 53,
+      "status": "Ended",
+      "premiered": "2018-06-20",
+      "ended": "2024-12-15",
+      "genres": [
+        "Drama",
+        "Western"
+      ],
+      "language": "English",
+      "network": "Paramount Network",
+      "cast": [
+        {
+          "actor": "Cole Hauser",
+          "character": "Rip Wheeler"
+        },
+        {
+          "actor": "Luke Grimes",
+          "character": "Kayce Dutton"
+        },
+        {
+          "actor": "Kelly Reilly",
+          "character": "Beth Dutton"
+        },
+        {
+          "actor": "Kelsey Chow",
+          "character": "Monica Long"
+        },
+        {
+          "actor": "Forrie J. Smith",
+          "character": "Lloyd Pierce"
+        },
+        {
+          "actor": "Wes Bentley",
+          "character": "Jamie Dutton"
+        },
+        {
+          "actor": "Ian Bohen",
+          "character": "Ryan"
+        },
+        {
+          "actor": "Kevin Costner",
+          "character": "John Dutton"
+        },
+        {
+          "actor": "Denim Richards",
+          "character": "Colby Mayfield"
+        },
+        {
+          "actor": "Brecken Merrill",
+          "character": "Tate Dutton"
+        }
+      ]
+    },
+    "Разделение": {
+      "name": "Severance",
+      "summary": "Mark Scout leads a team at Lumon Industries, whose employees have undergone a severance procedure, which surgically divides their memories between their work and personal lives. This daring experiment in \"work-life balance\" is called into question as Mark finds himself at the center of an unraveling mystery that will force him to confront the true nature of his work… and of himself.",
+      "seasons": 2,
+      "episodes": 19,
+      "status": "Running",
+      "premiered": "2022-02-18",
+      "ended": "",
+      "genres": [
+        "Drama",
+        "Science-Fiction",
+        "Mystery"
+      ],
+      "language": "English",
+      "network": "Apple TV",
+      "cast": [
+        {
+          "actor": "Adam Scott",
+          "character": "Mark Scout"
+        },
+        {
+          "actor": "Tramell Tillman",
+          "character": "Seth Milchick"
+        },
+        {
+          "actor": "Britt Lower",
+          "character": "Helly Riggs"
+        },
+        {
+          "actor": "Zach Cherry",
+          "character": "Dylan George"
+        },
+        {
+          "actor": "Jen Tullock",
+          "character": "Devon Scout-Hale"
+        },
+        {
+          "actor": "John Turturro",
+          "character": "Irving Bailiff"
+        },
+        {
+          "actor": "Patricia Arquette",
+          "character": "Harmony Cobel / Mrs. Selvig"
+        },
+        {
+          "actor": "Christopher Walken",
+          "character": "Burt Goodman"
+        },
+        {
+          "actor": "Dichen Lachman",
+          "character": "Ms. Casey"
+        },
+        {
+          "actor": "Michael Chernus",
+          "character": "Ricken Lazlo Hale"
+        }
+      ]
+    },
+    "Сотня": {
+      "name": "The 100",
+      "summary": "Ninety-seven years ago, nuclear Armageddon decimated planet Earth, destroying civilization. The only survivors were the 400 inhabitants of 12 international space stations that were in orbit at the time. Three generations have been born in space, the survivors now number 4,000, and resources are running out on their dying \"Ark\" - the 12 stations now linked together and repurposed to keep the survivors alive. Draconian measures including capital punishment and population control are the order of the day, as the leaders of the Ark take ruthless steps to ensure their future, including secretly exiling a group of 100 juvenile prisoners to the Earth's surface to test whether it's habitable.",
+      "seasons": 7,
+      "episodes": 100,
+      "status": "Ended",
+      "premiered": "2014-03-19",
+      "ended": "2020-09-30",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Science-Fiction"
+      ],
+      "language": "English",
+      "network": "The CW",
+      "cast": [
+        {
+          "actor": "Eliza Taylor",
+          "character": "Clarke Griffin"
+        },
+        {
+          "actor": "Marie Avgeropoulos",
+          "character": "Octavia Blake"
+        },
+        {
+          "actor": "Bob Morley",
+          "character": "Bellamy Blake"
+        },
+        {
+          "actor": "Lindsey Morgan",
+          "character": "Raven Reyes"
+        },
+        {
+          "actor": "Richard Harmon",
+          "character": "Jonathan Murphy"
+        },
+        {
+          "actor": "Paige Turco",
+          "character": "Abigail Griffin"
+        },
+        {
+          "actor": "Henry Ian Cusick",
+          "character": "Marcus Kane"
+        },
+        {
+          "actor": "Christopher Larkin",
+          "character": "Monty Green"
+        },
+        {
+          "actor": "Tasya Teles",
+          "character": "Echo"
+        },
+        {
+          "actor": "Isaiah Washington",
+          "character": "Thelonious Jaha"
+        }
+      ]
+    },
+    "Острые предметы": {
+      "name": "Sharp Objects",
+      "summary": "Sharp Objects centers on reporter Camille Preaker who, fresh from a brief stay at a psychiatric hospital, must return to her tiny hometown to cover the murders of two preteen girls. Trying to put together a psychological puzzle from her past, Camille finds herself identifying with the young victims a bit too closely.",
+      "seasons": 1,
+      "episodes": 8,
+      "status": "Ended",
+      "premiered": "2018-07-08",
+      "ended": "2018-08-26",
+      "genres": [
+        "Drama",
+        "Mystery"
+      ],
+      "language": "English",
+      "network": "HBO",
+      "cast": [
+        {
+          "actor": "Amy Adams",
+          "character": "Camille Preaker"
+        },
+        {
+          "actor": "Patricia Clarkson",
+          "character": "Adora Crellin"
+        },
+        {
+          "actor": "Eliza Scanlen",
+          "character": "Amma Crellin"
+        },
+        {
+          "actor": "Chris Messina",
+          "character": "Detective Richard Willis"
+        },
+        {
+          "actor": "Matt Craven",
+          "character": "Chief Bill Vickery"
+        },
+        {
+          "actor": "Henry Czerny",
+          "character": "Alan Crellin"
+        },
+        {
+          "actor": "Taylor John Smith",
+          "character": "John Keene"
+        },
+        {
+          "actor": "Miguel Sandoval",
+          "character": "Frank Curry"
+        },
+        {
+          "actor": "Elizabeth Perkins",
+          "character": "Jackie O'Neill"
+        },
+        {
+          "actor": "Lulu Wilson",
+          "character": "Marian Crellin"
+        }
+      ]
+    },
+    "Обмани меня": {
+      "name": "Lie to Me",
+      "summary": "This compelling new drama series stars Tim Roth as Dr. Cal Lightman, the world's leading deception expert who studies facial expressions and involuntary body language to discover not only if someone is lying, but why. Based on the real-life scientific discoveries of Dr. Paul Ekman, the series follows Lightman and his team of deception experts as they assist law enforcement and government agencies to expose the truth behind the lies.",
+      "seasons": 3,
+      "episodes": 48,
+      "status": "Ended",
+      "premiered": "2009-01-21",
+      "ended": "2011-01-31",
+      "genres": [
+        "Drama",
+        "Crime",
+        "Mystery"
+      ],
+      "language": "English",
+      "network": "FOX",
+      "cast": [
+        {
+          "actor": "Tim Roth",
+          "character": "Dr. Cal Lightman"
+        },
+        {
+          "actor": "Kelli Williams",
+          "character": "Dr. Gillian Foster"
+        },
+        {
+          "actor": "Monica Raymund",
+          "character": "Ria Torres"
+        },
+        {
+          "actor": "Brendan Hines",
+          "character": "Eli Loker"
+        },
+        {
+          "actor": "Hayley McFarland",
+          "character": "Emily Lightman"
+        },
+        {
+          "actor": "Mekhi Phifer",
+          "character": "Ben Reynolds"
+        }
+      ]
+    },
+    "Сцены из супружеской жизни": {
+      "name": "Scenes from a Marriage",
+      "summary": "An adaptation of Ingmar Bergman's classic series, Scenes from a Marriage, that re-examines the show's iconic depiction of love, hatred, desire, monogamy, marriage and divorce through the lens of a contemporary American couple.",
+      "seasons": 1,
+      "episodes": 5,
+      "status": "Ended",
+      "premiered": "2021-09-12",
+      "ended": "2021-10-10",
+      "genres": [
+        "Drama"
+      ],
+      "language": "English",
+      "network": "HBO",
+      "cast": [
+        {
+          "actor": "Oscar Isaac",
+          "character": "Jonathan Levy"
+        },
+        {
+          "actor": "Jessica Chastain",
+          "character": "Mira Levy"
+        }
+      ]
+    },
+    "Переходный возраст": {
+      "name": "Adolescence",
+      "summary": "Adolescence tells the story of how a family's world is turned upside down when 13-year-old Jamie Miller is arrested and charged with the murder of a teenage girl who goes to his school.",
+      "seasons": 1,
+      "episodes": 4,
+      "status": "Ended",
+      "premiered": "2025-03-13",
+      "ended": "2025-03-13",
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "language": "English",
+      "network": "Netflix",
+      "cast": [
+        {
+          "actor": "Stephen Graham",
+          "character": "Eddie Miller"
+        },
+        {
+          "actor": "Owen Cooper",
+          "character": "Jamie Miller"
+        },
+        {
+          "actor": "Ashley Walters",
+          "character": "DI Luke Bascombe"
+        },
+        {
+          "actor": "Faye Marsay",
+          "character": "DS Misha Frank"
+        },
+        {
+          "actor": "Christine Tremarco",
+          "character": "Manda Miller"
+        },
+        {
+          "actor": "Amélie Pease",
+          "character": "Lisa Miller"
+        },
+        {
+          "actor": "Erin Doherty",
+          "character": "Briony Ariston"
+        },
+        {
+          "actor": "Mark Stanley",
+          "character": "Paulie Barlow"
+        },
+        {
+          "actor": "Hannah Walters",
+          "character": "Mrs Bailey"
+        },
+        {
+          "actor": "Jo Hartley",
+          "character": "Mrs Fenumore"
+        }
+      ]
+    },
+    "Когда они нас увидят": {
+      "name": "When They See Us",
+      "summary": "Five teens from Harlem become trapped in a nightmare when they're falsely accused of a brutal attack in Central Park. Based on the true story.",
+      "seasons": 1,
+      "episodes": 4,
+      "status": "Ended",
+      "premiered": "2019-05-31",
+      "ended": "2019-05-31",
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "language": "English",
+      "network": "Netflix",
+      "cast": [
+        {
+          "actor": "John Leguizamo",
+          "character": "Raymond Santana Sr."
+        },
+        {
+          "actor": "Michael K. Williams",
+          "character": "Bobby McCray"
+        },
+        {
+          "actor": "Marquis Rodriguez",
+          "character": "Raymond Santana, Jr. (Teen)"
+        },
+        {
+          "actor": "Ethan Herisse",
+          "character": "Yusef Salaam (Teen)"
+        },
+        {
+          "actor": "Asante Blackk",
+          "character": "Kevin Richardson (Teen)"
+        },
+        {
+          "actor": "Caleel Harris",
+          "character": "Antron McCray (Teen)"
+        },
+        {
+          "actor": "Marsha Stephanie Blake",
+          "character": "Linda McCray"
+        },
+        {
+          "actor": "Kylie Bunbury",
+          "character": "Angie Richardson"
+        },
+        {
+          "actor": "Aunjanue Ellis",
+          "character": "Sharonne Salaam"
+        },
+        {
+          "actor": "Niecy Nash",
+          "character": "Deloris Wise"
+        }
+      ]
+    },
+    "Наследники": {
+      "name": "Succession",
+      "summary": "Succession follows the saga of the Roys, a fictional, American global-media family that is not only rich and powerful but also powerfully dysfunctional. The drama will explore family loyalty, international business and the perils of power in the 21st century. Power, politics, money...it's all in the family in this provocative, funny series about a highly dysfunctional dynasty. When Logan Roy, CEO of one of the world's largest media and entertainment conglomerates, considers retirement, each of his four grown children follows a personal agenda that doesn't always sync with those of their siblings--or of their father.",
+      "seasons": 4,
+      "episodes": 39,
+      "status": "Ended",
+      "premiered": "2018-06-03",
+      "ended": "2023-05-28",
+      "genres": [
+        "Drama",
+        "Family"
+      ],
+      "language": "English",
+      "network": "HBO",
+      "cast": [
+        {
+          "actor": "Jeremy Strong",
+          "character": "Kendall Roy"
+        },
+        {
+          "actor": "Kieran Culkin",
+          "character": "Roman Roy"
+        },
+        {
+          "actor": "Sarah Snook",
+          "character": "Siobhan \"Shiv\" Roy"
+        },
+        {
+          "actor": "Matthew Macfadyen",
+          "character": "Tom Wambsgans"
+        },
+        {
+          "actor": "Nicholas Braun",
+          "character": "Greg Hirsch"
+        },
+        {
+          "actor": "Alan Ruck",
+          "character": "Connor Roy"
+        },
+        {
+          "actor": "J. Smith-Cameron",
+          "character": "Gerri Kellman"
+        },
+        {
+          "actor": "Brian Cox",
+          "character": "Logan Roy"
+        },
+        {
+          "actor": "Peter Friedman",
+          "character": "Frank Vernon"
+        },
+        {
+          "actor": "Justine Lupe",
+          "character": "Willa Ferreyra"
+        }
+      ]
+    },
+    "Терапия": {
+      "name": "Shrinking",
+      "summary": "Shrinking follows a grieving therapist who starts to break the rules and tell his clients exactly what he thinks. Ignoring his training and ethics, he finds himself making huge, tumultuous changes to people's lives... including his own.",
+      "seasons": 3,
+      "episodes": 34,
+      "status": "Running",
+      "premiered": "2023-01-27",
+      "ended": "",
+      "genres": [
+        "Comedy"
+      ],
+      "language": "English",
+      "network": "Apple TV",
+      "cast": [
+        {
+          "actor": "Jason Segel",
+          "character": "Jimmy Laird"
+        },
+        {
+          "actor": "Harrison Ford",
+          "character": "Dr. Paul T. Rhoades"
+        },
+        {
+          "actor": "Christa Miller",
+          "character": "Liz Bishop"
+        },
+        {
+          "actor": "Jessica Williams",
+          "character": "Gabrielle 'Gaby' Evans"
+        },
+        {
+          "actor": "Michael Urie",
+          "character": "Brian Lorenzo"
+        },
+        {
+          "actor": "Luke Tennie",
+          "character": "Sean Mitchell"
+        },
+        {
+          "actor": "Lukita Maxwell",
+          "character": "Alice Laird"
+        },
+        {
+          "actor": "Ted McGinley",
+          "character": "Derek Bishop"
+        }
+      ]
+    },
+    "Лэндмен": {
+      "name": "Landman",
+      "summary": "Set in the proverbial boomtowns of West Texas, Landman is a modern day tale of fortune seeking in the world of oil rigs. The series is an upstairs/downstairs story of roughnecks and wildcat billionaires fueling a boom so big, it's reshaping our climate, our economy and our geopolitics.",
+      "seasons": 2,
+      "episodes": 20,
+      "status": "Running",
+      "premiered": "2024-11-17",
+      "ended": "",
+      "genres": [
+        "Drama"
+      ],
+      "language": "English",
+      "network": "Paramount+",
+      "cast": [
+        {
+          "actor": "Billy Bob Thornton",
+          "character": "Tommy Norris"
+        },
+        {
+          "actor": "Michelle Randolph",
+          "character": "Ainsley Norris"
+        },
+        {
+          "actor": "Jacob Lofland",
+          "character": "Cooper Norris"
+        },
+        {
+          "actor": "James Jordan",
+          "character": "Dale Bradley"
+        },
+        {
+          "actor": "Ali Larter",
+          "character": "Angela Russo"
+        },
+        {
+          "actor": "Kayla Wallace",
+          "character": "Rebecca Falcone"
+        },
+        {
+          "actor": "Paulina Chávez",
+          "character": "Ariana Medina"
+        },
+        {
+          "actor": "Demi Moore",
+          "character": "Cami Miller"
+        },
+        {
+          "actor": "Jon Hamm",
+          "character": "Monty Miller"
+        },
+        {
+          "actor": "Sam Elliott",
+          "character": "Thomas \"T.L.\" Norris"
+        }
+      ]
+    },
+    "Мышь": {
+      "name": "Mouse",
+      "summary": "A crazed serial killer's ruthless murders have left the entire nation gripped with fear and chaos reigns. Justice-seeking rookie police officer, Jung Ba Reum, comes face to face with the killer. While he survives his dangerous encounter with the psychopath, Jung Ba Reum finds his life completely changing. A suspenseful story that asks the key question, \"What if we could identify psychopaths in advance?\"",
+      "seasons": 1,
+      "episodes": 20,
+      "status": "Ended",
+      "premiered": "2021-03-03",
+      "ended": "2021-05-20",
+      "genres": [
+        "Drama",
+        "Crime",
+        "Thriller"
+      ],
+      "language": "Korean",
+      "network": "tvN",
+      "cast": [
+        {
+          "actor": "Lee Seung Ki",
+          "character": "Jung Ba Reum"
+        },
+        {
+          "actor": "Lee Hee Joon",
+          "character": "Go Moo Chi"
+        },
+        {
+          "actor": "Park Joo Hyun",
+          "character": "Oh Bong Yi"
+        },
+        {
+          "actor": "Kyung Soo Jin",
+          "character": "Choi Hong Joo"
+        }
+      ]
+    },
+    "Миллиарды": {
+      "name": "Billions",
+      "summary": "Billions is a complex drama about power politics in the world of New York high finance. Shrewd, savvy U.S. Attorney Chuck Rhoades and the brilliant, ambitious hedge fund king Bobby \"Axe\" Axelrod are on an explosive collision course, with each using all of his considerable smarts, power and influence to outmaneuver the other. The stakes are in the billions in this timely, provocative series.",
+      "seasons": 7,
+      "episodes": 84,
+      "status": "Ended",
+      "premiered": "2016-01-17",
+      "ended": "2023-10-27",
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "language": "English",
+      "network": "Showtime on Demand",
+      "cast": [
+        {
+          "actor": "Paul Giamatti",
+          "character": "Chuck Rhoades"
+        },
+        {
+          "actor": "David Costabile",
+          "character": "Mike \"Wags\" Wagner"
+        },
+        {
+          "actor": "Maggie Siff",
+          "character": "Wendy Rhoades"
+        },
+        {
+          "actor": "Condola Rashad",
+          "character": "Kate Sacker"
+        },
+        {
+          "actor": "Asia Kate Dillon",
+          "character": "Taylor Mason"
+        },
+        {
+          "actor": "Kelly AuCoin",
+          "character": "\"Dollar\" Bill Stearn"
+        },
+        {
+          "actor": "Damian Lewis",
+          "character": "Bobby \"Axe\" Axelrod"
+        },
+        {
+          "actor": "Jeffrey DeMunn",
+          "character": "Chuck Rhoades, Sr."
+        },
+        {
+          "actor": "Toby Leonard Moore",
+          "character": "Bryan Connerty"
+        },
+        {
+          "actor": "Corey Stoll",
+          "character": "Michael Prince"
+        }
+      ]
+    },
+    "Предложение": {
+      "name": "The Offer",
+      "summary": "The Offer is based on Oscar-winning producer Al Ruddy's extraordinary, never-revealed experiences of making The Godfather .",
+      "seasons": 1,
+      "episodes": 10,
+      "status": "Ended",
+      "premiered": "2022-04-28",
+      "ended": "2022-06-16",
+      "genres": [
+        "Drama"
+      ],
+      "language": "English",
+      "network": "Paramount+",
+      "cast": [
+        {
+          "actor": "Miles Teller",
+          "character": "Al Ruddy"
+        },
+        {
+          "actor": "Dan Fogler",
+          "character": "Francis Ford Coppola"
+        },
+        {
+          "actor": "Juno Temple",
+          "character": "Bettye McCartt"
+        },
+        {
+          "actor": "Matthew Goode",
+          "character": "Robert Evans"
+        },
+        {
+          "actor": "Colin Hanks",
+          "character": "Barry Lapidus"
+        },
+        {
+          "actor": "Burn Gorman",
+          "character": "Charles Bluhdorn"
+        },
+        {
+          "actor": "Giovanni Ribisi",
+          "character": "Joe Colombo"
+        }
+      ]
+    },
+    "Мейр из Исттауна": {
+      "name": "Mare of Easttown",
+      "summary": "Mare of Easttown follows a small-town Pennsylvania detective who investigates a local murder at a time when her own life is crumbling around her.",
+      "seasons": 1,
+      "episodes": 7,
+      "status": "Ended",
+      "premiered": "2021-04-18",
+      "ended": "2021-05-30",
+      "genres": [
+        "Drama",
+        "Crime",
+        "Mystery"
+      ],
+      "language": "English",
+      "network": "HBO",
+      "cast": [
+        {
+          "actor": "Julianne Nicholson",
+          "character": "Lori Ross"
+        },
+        {
+          "actor": "Jean Smart",
+          "character": "Helen Fahey"
+        },
+        {
+          "actor": "Angourie Rice",
+          "character": "Siobhan Sheehan"
+        },
+        {
+          "actor": "Kate Winslet",
+          "character": "Mare Sheehan"
+        },
+        {
+          "actor": "John Douglas Thompson",
+          "character": "Chief Carter"
+        },
+        {
+          "actor": "Joe Tippett",
+          "character": "John Ross"
+        },
+        {
+          "actor": "Cameron Mann",
+          "character": "Ryan Ross"
+        },
+        {
+          "actor": "Jack Mulhern",
+          "character": "Dylan Hinchey"
+        },
+        {
+          "actor": "David Denman",
+          "character": "Frank Sheehan"
+        },
+        {
+          "actor": "Guy Pearce",
+          "character": "Richard Ryan"
+        }
+      ]
+    },
+    "Побег": {
+      "name": "Prison Break",
+      "summary": "Lincoln Burrows is currently on death row and scheduled to die in a few months for an assassination his younger brother Michael is convinced he did not commit. With no other options and time winding down, Michael takes drastic measures to get himself incarcerated alongside his brother in Fox River State Penitentiary. Once he's inside, Michael - a structural engineer with the blueprints for the prison - begins to execute an elaborate plan to break Lincoln out and prove him innocent. When Michael arrives at Fox River State Penitentiary, he meets the prison denizens who will, unknowingly, help in his escape plans - his cellmate, the lovelorn Sucre; beautiful prison doctor Dr. Sara Tancredi, who happens to be the governor's daughter; former mob boss John Abruzzi; and Warden Henry Pope. Meanwhile, outside the prison walls, the brothers' childhood friend and Lincoln's lost love, attorney Veronica Donovan, works within the law to free them; Lincoln's teenage son LJ may be going down a path similar to his convicted father's; and Secret Service Agent Paul Kellerman's investigation into Lincoln's case proves that there may be a national conspiracy.",
+      "seasons": 5,
+      "episodes": 88,
+      "status": "Ended",
+      "premiered": "2005-08-29",
+      "ended": "2017-05-30",
+      "genres": [
+        "Drama",
+        "Crime",
+        "Thriller"
+      ],
+      "language": "English",
+      "network": "FOX",
+      "cast": [
+        {
+          "actor": "Dominic Purcell",
+          "character": "Lincoln \"Linc\" Burrows"
+        },
+        {
+          "actor": "Wentworth Miller",
+          "character": "Michael Scofield"
+        },
+        {
+          "actor": "Robert Knepper",
+          "character": "Theodore \"T-Bag\" Bagwell"
+        },
+        {
+          "actor": "Amaury Nolasco",
+          "character": "Fernando Sucre"
+        },
+        {
+          "actor": "Sarah Wayne Callies",
+          "character": "Sara Tancredi"
+        },
+        {
+          "actor": "Wade Williams",
+          "character": "Brad Bellick"
+        },
+        {
+          "actor": "William Fichtner",
+          "character": "Alexander \"Alex\" Mahone"
+        },
+        {
+          "actor": "Paul Adelstein",
+          "character": "Paul Kellerman"
+        },
+        {
+          "actor": "Rockmond Dunbar",
+          "character": "Benjamin Miles \"C-Note\" Franklin"
+        },
+        {
+          "actor": "Jodi Lyn O'Keefe",
+          "character": "Gretchen Morgan"
+        }
+      ]
+    }
+  },
+  "misses": []
+}

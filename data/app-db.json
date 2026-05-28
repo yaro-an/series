@@ -1,0 +1,17 @@
+{
+  "users": [
+    {
+      "id": "admin-yaro",
+      "login": "yaro-an",
+      "role": "admin",
+      "canAdd": true,
+      "canEdit": true,
+      "salt": "a7a141e067a811f8931c53032950e0ba",
+      "passwordHash": "95f072b323ed769b3986906fcd496f7806bdbb3b73fb85849b1f6dd39c658e62",
+      "createdAt": 1779970000000
+    }
+  ],
+  "series": null,
+  "customInfo": {},
+  "customTranslatedInfo": {}
+}

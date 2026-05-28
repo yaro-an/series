@@ -1,0 +1,390 @@
+{
+  "generatedAt": "2026-05-25T20:52:52.600Z",
+  "covers": [
+    {
+      "title": "Игра престолов",
+      "query": "Game of Thrones",
+      "matched": "Game of Thrones",
+      "cover": "assets/covers/игра-престолов.jpg"
+    },
+    {
+      "title": "Теория большого взрыва",
+      "query": "The Big Bang Theory",
+      "matched": "The Big Bang Theory",
+      "cover": "assets/covers/теория-большого-взрыва.jpg"
+    },
+    {
+      "title": "Во все тяжкие",
+      "query": "Breaking Bad",
+      "matched": "Breaking Bad",
+      "cover": "assets/covers/во-все-тяжкие.jpg"
+    },
+    {
+      "title": "Сверхъестественное",
+      "query": "Supernatural",
+      "matched": "Supernatural",
+      "cover": "assets/covers/сверхъестественное.jpg"
+    },
+    {
+      "title": "Офис",
+      "query": "The Office US",
+      "matched": "The Office",
+      "cover": "assets/covers/офис.jpg"
+    },
+    {
+      "title": "Извне",
+      "query": "From",
+      "matched": "FROM",
+      "cover": "assets/covers/извне.jpg"
+    },
+    {
+      "title": "Чёрное зеркало",
+      "query": "Black Mirror",
+      "matched": "Black Mirror",
+      "cover": "assets/covers/черное-зеркало.jpg"
+    },
+    {
+      "title": "Тед Лассо",
+      "query": "Ted Lasso",
+      "matched": "Ted Lasso",
+      "cover": "assets/covers/тед-лассо.jpg"
+    },
+    {
+      "title": "Острые козырьки",
+      "query": "Peaky Blinders",
+      "matched": "Peaky Blinders",
+      "cover": "assets/covers/острые-козырьки.jpg"
+    },
+    {
+      "title": "Менталист",
+      "query": "The Mentalist",
+      "matched": "The Mentalist",
+      "cover": "assets/covers/менталист.jpg"
+    },
+    {
+      "title": "Друзья",
+      "query": "Friends",
+      "matched": "Friends",
+      "cover": "assets/covers/друзья.jpg"
+    },
+    {
+      "title": "Детство Шелдона",
+      "query": "Young Sheldon",
+      "matched": "Young Sheldon",
+      "cover": "assets/covers/детство-шелдона.jpg"
+    },
+    {
+      "title": "Киностудия",
+      "query": "The Studio",
+      "matched": "The Studio",
+      "cover": "assets/covers/киностудия.jpg"
+    },
+    {
+      "title": "Ход королевы",
+      "query": "The Queen's Gambit",
+      "matched": "The Queen's Gambit",
+      "cover": "assets/covers/ход-королевы.jpg"
+    },
+    {
+      "title": "Дом Дракона",
+      "query": "House of the Dragon",
+      "matched": "House of the Dragon",
+      "cover": "assets/covers/дом-дракона.jpg"
+    },
+    {
+      "title": "Хороший доктор",
+      "query": "The Good Doctor",
+      "matched": "The Good Doctor",
+      "cover": "assets/covers/хорошии-доктор.jpg"
+    },
+    {
+      "title": "Как я встретил вашу маму",
+      "query": "How I Met Your Mother",
+      "matched": "How I Met Your Mother",
+      "cover": "assets/covers/как-я-встретил-вашу-маму.jpg"
+    },
+    {
+      "title": "Лучше звоните Солу",
+      "query": "Better Call Saul",
+      "matched": "Better Call Saul",
+      "cover": "assets/covers/лучше-звоните-солу.jpg"
+    },
+    {
+      "title": "Сопрано",
+      "query": "The Sopranos",
+      "matched": "The Sopranos",
+      "cover": "assets/covers/сопрано.jpg"
+    },
+    {
+      "title": "Очень странные дела",
+      "query": "Stranger Things",
+      "matched": "Stranger Things",
+      "cover": "assets/covers/очень-странные-дела.jpg"
+    },
+    {
+      "title": "Ходячие мертвецы",
+      "query": "The Walking Dead",
+      "matched": "The Walking Dead",
+      "cover": "assets/covers/ходячие-мертвецы.jpg"
+    },
+    {
+      "title": "Сёгун",
+      "query": "Shogun",
+      "matched": "Shōgun",
+      "cover": "assets/covers/сегун.jpg"
+    },
+    {
+      "title": "Охотник за разумом",
+      "query": "Mindhunter",
+      "matched": "MINDHUNTER",
+      "cover": "assets/covers/охотник-за-разумом.jpg"
+    },
+    {
+      "title": "Одни из нас",
+      "query": "The Last of Us",
+      "matched": "The Last of Us",
+      "cover": "assets/covers/одни-из-нас.jpg"
+    },
+    {
+      "title": "Киллербот",
+      "query": "Murderbot",
+      "matched": "Murderbot",
+      "cover": "assets/covers/киллербот.jpg"
+    },
+    {
+      "title": "Конец е****го мира",
+      "query": "The End of the F***ing World",
+      "matched": "The End of the F***ing World",
+      "cover": "assets/covers/конец-е-го-мира.jpg"
+    },
+    {
+      "title": "Чернобыль",
+      "query": "Chernobyl",
+      "matched": "Chernobyl",
+      "cover": "assets/covers/чернобыль.jpg"
+    },
+    {
+      "title": "Алиса в Пограничье",
+      "query": "Alice in Borderland",
+      "matched": "Alice in Borderland",
+      "cover": "assets/covers/алиса-в-пограничье.jpg"
+    },
+    {
+      "title": "Шерлок",
+      "query": "Sherlock",
+      "matched": "Sherlock",
+      "cover": "assets/covers/шерлок.jpg"
+    },
+    {
+      "title": "Гангстерленд",
+      "query": "MobLand",
+      "matched": "MobLand",
+      "cover": "assets/covers/гангстерленд.jpg"
+    },
+    {
+      "title": "Бумажный дом",
+      "query": "La Casa de Papel",
+      "matched": "La Casa de Papel",
+      "cover": "assets/covers/бумажныи-дом.jpg"
+    },
+    {
+      "title": "Фоллаут",
+      "query": "Fallout",
+      "matched": "Fallout",
+      "cover": "assets/covers/фоллаут.jpg"
+    },
+    {
+      "title": "Пингвин",
+      "query": "The Penguin",
+      "matched": "The Penguin",
+      "cover": "assets/covers/пингвин.jpg"
+    },
+    {
+      "title": "Укрытие",
+      "query": "Silo",
+      "matched": "Silo",
+      "cover": "assets/covers/укрытие.jpg"
+    },
+    {
+      "title": "Половое воспитание",
+      "query": "Sex Education",
+      "matched": "Sex Education",
+      "cover": "assets/covers/половое-воспитание.jpg"
+    },
+    {
+      "title": "Игра в кальмара",
+      "query": "Squid Game",
+      "matched": "Squid Game",
+      "cover": "assets/covers/игра-в-кальмара.jpg"
+    },
+    {
+      "title": "Первозданная Америка",
+      "query": "American Primeval",
+      "matched": "American Primeval",
+      "cover": "assets/covers/первозданная-америка.jpg"
+    },
+    {
+      "title": "Озарк",
+      "query": "Ozark",
+      "matched": "Ozark",
+      "cover": "assets/covers/озарк.jpg"
+    },
+    {
+      "title": "Американская семейка",
+      "query": "Modern Family",
+      "matched": "Modern Family",
+      "cover": "assets/covers/американская-семеика.jpg"
+    },
+    {
+      "title": "Остаться в живых",
+      "query": "Lost",
+      "matched": "Lost",
+      "cover": "assets/covers/остаться-в-живых.jpg"
+    },
+    {
+      "title": "Форс-мажоры",
+      "query": "Suits",
+      "matched": "Suits",
+      "cover": "assets/covers/форс-мажоры.jpg"
+    },
+    {
+      "title": "Настоящий детектив",
+      "query": "True Detective",
+      "matched": "True Detective",
+      "cover": "assets/covers/настоящии-детектив.jpg"
+    },
+    {
+      "title": "Викинги",
+      "query": "Vikings",
+      "matched": "Vikings",
+      "cover": "assets/covers/викинги.jpg"
+    },
+    {
+      "title": "Бесстыжие",
+      "query": "Shameless",
+      "matched": "Shameless",
+      "cover": "assets/covers/бесстыжие.jpg"
+    },
+    {
+      "title": "Уэнздей",
+      "query": "Wednesday",
+      "matched": "Wednesday",
+      "cover": "assets/covers/уэнздеи.jpg"
+    },
+    {
+      "title": "Два с половиной человека",
+      "query": "Two and a Half Men",
+      "matched": "Two and a Half Men",
+      "cover": "assets/covers/два-с-половинои-человека.jpg"
+    },
+    {
+      "title": "Карточный домик",
+      "query": "House of Cards",
+      "matched": "House of Cards",
+      "cover": "assets/covers/карточныи-домик.jpg"
+    },
+    {
+      "title": "Пацаны",
+      "query": "The Boys",
+      "matched": "The Boys",
+      "cover": "assets/covers/пацаны.jpg"
+    },
+    {
+      "title": "Йеллоустоун",
+      "query": "Yellowstone",
+      "matched": "Yellowstone",
+      "cover": "assets/covers/иеллоустоун.jpg"
+    },
+    {
+      "title": "Разделение",
+      "query": "Severance",
+      "matched": "Severance",
+      "cover": "assets/covers/разделение.jpg"
+    },
+    {
+      "title": "Сотня",
+      "query": "The 100",
+      "matched": "The 100",
+      "cover": "assets/covers/сотня.jpg"
+    },
+    {
+      "title": "Острые предметы",
+      "query": "Sharp Objects",
+      "matched": "Sharp Objects",
+      "cover": "assets/covers/острые-предметы.jpg"
+    },
+    {
+      "title": "Обмани меня",
+      "query": "Lie to Me",
+      "matched": "Lie to Me",
+      "cover": "assets/covers/обмани-меня.jpg"
+    },
+    {
+      "title": "Сцены из супружеской жизни",
+      "query": "Scenes from a Marriage",
+      "matched": "Scenes from a Marriage",
+      "cover": "assets/covers/сцены-из-супружескои-жизни.jpg"
+    },
+    {
+      "title": "Переходный возраст",
+      "query": "Adolescence",
+      "matched": "Adolescence",
+      "cover": "assets/covers/переходныи-возраст.jpg"
+    },
+    {
+      "title": "Когда они нас увидят",
+      "query": "When They See Us",
+      "matched": "When They See Us",
+      "cover": "assets/covers/когда-они-нас-увидят.jpg"
+    },
+    {
+      "title": "Наследники",
+      "query": "Succession",
+      "matched": "Succession",
+      "cover": "assets/covers/наследники.jpg"
+    },
+    {
+      "title": "Терапия",
+      "query": "Shrinking",
+      "matched": "Shrinking",
+      "cover": "assets/covers/терапия.jpg"
+    },
+    {
+      "title": "Лэндмен",
+      "query": "Landman",
+      "matched": "Landman",
+      "cover": "assets/covers/лэндмен.jpg"
+    },
+    {
+      "title": "Мышь",
+      "query": "Mouse",
+      "matched": "Mouse",
+      "cover": "assets/covers/мышь.jpg"
+    },
+    {
+      "title": "Миллиарды",
+      "query": "Billions",
+      "matched": "Billions",
+      "cover": "assets/covers/миллиарды.jpg"
+    },
+    {
+      "title": "Предложение",
+      "query": "The Offer",
+      "matched": "The Offer",
+      "cover": "assets/covers/предложение.jpg"
+    },
+    {
+      "title": "Мейр из Исттауна",
+      "query": "Mare of Easttown",
+      "matched": "Mare of Easttown",
+      "cover": "assets/covers/меир-из-исттауна.jpg"
+    },
+    {
+      "title": "Побег",
+      "query": "Prison Break",
+      "matched": "Prison Break",
+      "cover": "assets/covers/побег.jpg"
+    }
+  ],
+  "misses": []
+}

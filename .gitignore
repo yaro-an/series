@@ -1,0 +1,11 @@
+.DS_Store
+node_modules/
+npm-debug.log*
+.env
+.env.local
+.env.*.local
+serial-site.zip
+serial-server.zip
+serial-render.zip
+render-build.zip
+*.log

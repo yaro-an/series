@@ -1,0 +1,214 @@
+<!doctype html>
+<html lang="ru">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="robots" content="noindex, nofollow" />
+    <title>Сериалы</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <button class="menu-toggle" id="sidebarToggle" type="button" aria-label="Открыть меню" aria-expanded="true">
+      <span></span>
+      <span></span>
+      <span></span>
+    </button>
+    <div class="sidebar-scrim" id="sidebarScrim" aria-hidden="true"></div>
+    <section class="auth-screen" id="authScreen" hidden>
+      <div class="auth-card">
+        <div>
+          <p class="eyebrow">Доступ</p>
+          <h1>Вход в сериалы</h1>
+        </div>
+        <div class="auth-tabs">
+          <button class="category-button active" id="loginTab" type="button">Войти</button>
+          <button class="category-button" id="registerTab" type="button">Регистрация</button>
+        </div>
+        <form class="auth-form" id="authForm">
+          <label>
+            Логин
+            <input id="authLogin" type="text" autocomplete="username" required />
+          </label>
+          <label>
+            Пароль
+            <input id="authPassword" type="password" autocomplete="current-password" required />
+          </label>
+          <p class="auth-error" id="authError"></p>
+          <button class="primary-button" type="submit">Продолжить</button>
+        </form>
+      </div>
+    </section>
+
+    <div class="app-shell">
+      <aside class="sidebar" aria-label="Навигация">
+        <div class="brand">
+          <div class="brand-mark">S</div>
+          <div>
+            <h1>Сериалы</h1>
+            <p id="totalCount">0 записей</p>
+          </div>
+        </div>
+
+        <nav class="category-nav" id="categoryNav" aria-label="Категории"></nav>
+
+        <div class="sidebar-footer">
+          <button class="ghost-button" id="exportButton" type="button" title="Скачать резервную копию">
+            <span aria-hidden="true">↓</span>
+            Экспорт
+          </button>
+          <label class="ghost-button import-label" title="Загрузить резервную копию">
+            <span aria-hidden="true">↑</span>
+            Импорт
+            <input id="importInput" type="file" accept="application/json" />
+          </label>
+          <button class="danger-button" id="resetButton" type="button" title="Вернуть начальный список">
+            Сброс
+          </button>
+          <button class="ghost-button" id="usersButton" type="button" hidden>
+            Пользователи
+          </button>
+          <button class="ghost-button" id="logoutButton" type="button" hidden>
+            Выйти
+          </button>
+        </div>
+      </aside>
+
+      <main class="main-content">
+        <section class="toolbar" aria-label="Панель управления">
+          <div class="search-wrap">
+            <span aria-hidden="true">⌕</span>
+            <input id="searchInput" type="search" placeholder="Поиск по названию или комментарию" />
+          </div>
+          <select id="sortSelect" aria-label="Сортировка">
+            <option value="rating-desc">Оценка: выше</option>
+            <option value="rating-asc">Оценка: ниже</option>
+            <option value="title-asc">Название: А-Я</option>
+            <option value="title-desc">Название: Я-А</option>
+            <option value="newest">Сначала новые</option>
+          </select>
+          <select id="languageSelect" aria-label="Язык">
+            <option value="ru">Русский</option>
+            <option value="en">English</option>
+          </select>
+          <button class="ghost-button view-mode-button" id="viewModeButton" type="button">
+            Полка
+          </button>
+          <button class="primary-button" id="openFormButton" type="button">
+            <span aria-hidden="true">＋</span>
+            Добавить
+          </button>
+        </section>
+
+        <section class="stats-grid" id="statsGrid" aria-label="Статистика"></section>
+
+        <section class="content-head">
+          <div>
+            <p class="eyebrow" id="currentCategoryLabel">Все сериалы</p>
+            <h2 id="sectionTitle">Мой список</h2>
+          </div>
+          <p id="visibleCount">0 записей</p>
+        </section>
+
+        <section class="series-grid" id="seriesGrid" aria-live="polite"></section>
+      </main>
+    </div>
+
+    <dialog id="seriesDialog">
+      <form class="series-form" id="seriesForm" method="dialog">
+        <div class="form-head">
+          <div>
+            <p class="eyebrow">Новая запись</p>
+            <h2 id="formTitle">Добавить сериал</h2>
+          </div>
+          <button class="icon-button" id="closeFormButton" type="button" aria-label="Закрыть">×</button>
+        </div>
+
+        <input id="editingId" type="hidden" />
+
+        <label>
+          Название
+          <input id="titleInput" type="text" required maxlength="80" />
+        </label>
+
+        <div class="form-row">
+          <label>
+            Категория
+            <select id="categoryInput" required></select>
+          </label>
+          <label>
+            Статус
+            <select id="watchStatusInput" required></select>
+          </label>
+        </div>
+
+        <div class="form-row compact-row">
+          <label>
+            Оценка
+            <input id="ratingInput" type="number" min="0" max="10" step="0.5" placeholder="8.5" />
+          </label>
+        </div>
+
+        <label>
+          Комментарий
+          <textarea id="commentInput" rows="4" maxlength="400"></textarea>
+        </label>
+
+        <label>
+          Обложка
+          <input id="coverInput" type="file" accept="image/*" />
+        </label>
+
+        <div class="cover-preview" id="coverPreview" aria-hidden="true"></div>
+
+        <div class="form-actions">
+          <button class="ghost-button" id="clearCoverButton" type="button">Убрать обложку</button>
+          <button class="primary-button" type="submit">Сохранить</button>
+        </div>
+      </form>
+    </dialog>
+
+    <dialog id="detailsDialog">
+      <article class="details-panel" id="detailsPanel">
+        <button class="icon-button details-close" id="closeDetailsButton" type="button" aria-label="Закрыть">×</button>
+        <div class="details-layout">
+          <div class="details-cover" id="detailsCover"></div>
+          <div class="details-copy">
+            <p class="eyebrow" id="detailsCategory"></p>
+            <h2 id="detailsTitle"></h2>
+            <p class="details-original" id="detailsOriginal"></p>
+            <div class="details-actions">
+              <a class="primary-button trailer-button" id="trailerButton" href="#" target="_blank" rel="noopener">
+                Трейлер
+              </a>
+            </div>
+            <div class="details-stats" id="detailsStats"></div>
+            <p class="details-summary" id="detailsSummary"></p>
+            <div class="details-section" id="detailsGenresWrap">
+              <h3>Жанры</h3>
+              <div class="details-tags" id="detailsGenres"></div>
+            </div>
+            <div class="details-section">
+              <h3>Актёры</h3>
+              <ul class="cast-list" id="detailsCast"></ul>
+            </div>
+          </div>
+        </div>
+      </article>
+    </dialog>
+
+    <dialog id="usersDialog">
+      <article class="details-panel users-panel">
+        <button class="icon-button details-close" id="closeUsersButton" type="button" aria-label="Закрыть">×</button>
+        <div class="form-head">
+          <div>
+            <p class="eyebrow">Админ</p>
+            <h2>Пользователи</h2>
+          </div>
+        </div>
+        <div class="users-list" id="usersList"></div>
+      </article>
+    </dialog>
+
+    <script src="./app.js"></script>
+  </body>
+</html>
