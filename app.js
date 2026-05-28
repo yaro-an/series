@@ -342,6 +342,7 @@ const els = {
   authLogin: document.querySelector("#authLogin"),
   authPassword: document.querySelector("#authPassword"),
   authError: document.querySelector("#authError"),
+  authSubmitButton: document.querySelector("#authSubmitButton"),
   sidebarToggle: document.querySelector("#sidebarToggle"),
   sidebarScrim: document.querySelector("#sidebarScrim"),
   totalCount: document.querySelector("#totalCount"),
@@ -1155,22 +1156,37 @@ function setAuthMode(mode) {
 }
 
 async function submitAuth(event) {
-  event.preventDefault();
+  if (event) event.preventDefault();
+  if (els.authSubmitButton.disabled) return;
   els.authError.textContent = "";
+  els.authError.style.color = "";
+  const login = els.authLogin.value.trim();
+  const password = els.authPassword.value;
+  if (!login || !password) {
+    els.authError.textContent = "Введите логин и пароль.";
+    return;
+  }
+  els.authSubmitButton.disabled = true;
+  els.authSubmitButton.textContent = "Проверяю вход...";
   try {
     const path = state.authMode === "login" ? "/api/login" : "/api/register";
     const result = await apiRequest(path, {
       method: "POST",
       body: JSON.stringify({
-        login: els.authLogin.value,
-        password: els.authPassword.value,
+        login,
+        password,
       }),
     });
     state.currentUser = result.user;
     els.authForm.reset();
     await loadServerState();
   } catch (error) {
-    els.authError.textContent = error.message;
+    els.authError.textContent = error.message === "Invalid login or password"
+      ? "Неверный логин или пароль."
+      : `Ошибка входа: ${error.message}`;
+  } finally {
+    els.authSubmitButton.disabled = false;
+    els.authSubmitButton.textContent = "Продолжить";
   }
 }
 
@@ -1241,6 +1257,7 @@ els.sidebarScrim.addEventListener("click", () => {
 els.loginTab.addEventListener("click", () => setAuthMode("login"));
 els.registerTab.addEventListener("click", () => setAuthMode("register"));
 els.authForm.addEventListener("submit", submitAuth);
+els.authSubmitButton.addEventListener("click", submitAuth);
 
 els.openFormButton.addEventListener("click", () => openForm());
 els.closeFormButton.addEventListener("click", closeForm);
