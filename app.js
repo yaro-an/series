@@ -406,11 +406,25 @@ function canEditSeries() {
 }
 
 async function apiRequest(path, options = {}) {
-  const response = await fetch(path, {
-    credentials: "same-origin",
-    headers: { "Content-Type": "application/json", ...(options.headers || {}) },
-    ...options,
-  });
+  const { timeoutMs = 15000, ...fetchOptions } = options;
+  const controller = new AbortController();
+  const timeout = window.setTimeout(() => controller.abort(), timeoutMs);
+  let response;
+  try {
+    response = await fetch(path, {
+      credentials: "same-origin",
+      headers: { "Content-Type": "application/json", ...(fetchOptions.headers || {}) },
+      signal: fetchOptions.signal || controller.signal,
+      ...fetchOptions,
+    });
+  } catch (error) {
+    if (error.name === "AbortError") {
+      throw new Error("Сервер долго не отвечает. Обновите страницу и попробуйте ещё раз.");
+    }
+    throw error;
+  } finally {
+    window.clearTimeout(timeout);
+  }
   const data = await response.json().catch(() => ({}));
   if (!response.ok) throw new Error(data.error || "Request failed");
   return data;
@@ -1168,6 +1182,7 @@ async function submitAuth(event) {
   }
   els.authSubmitButton.disabled = true;
   els.authSubmitButton.textContent = "Проверяю вход...";
+  let loggedIn = false;
   try {
     const path = state.authMode === "login" ? "/api/login" : "/api/register";
     const result = await apiRequest(path, {
@@ -1177,10 +1192,24 @@ async function submitAuth(event) {
         password,
       }),
     });
+    loggedIn = true;
     state.currentUser = result.user;
     els.authForm.reset();
-    await loadServerState();
+    hideAuth();
+    render();
+    try {
+      await loadServerState();
+    } catch (error) {
+      console.error(error);
+      render();
+    }
   } catch (error) {
+    if (loggedIn) {
+      console.error(error);
+      hideAuth();
+      render();
+      return;
+    }
     els.authError.textContent = error.message === "Invalid login or password"
       ? "Неверный логин или пароль."
       : `Ошибка входа: ${error.message}`;
