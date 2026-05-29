@@ -459,6 +459,7 @@ async function initAuth() {
 
 function showAuth() {
   document.body.classList.add("auth-locked");
+  els.authScreen.style.display = "";
   els.authScreen.hidden = false;
   els.authLogin.focus();
 }
@@ -466,6 +467,7 @@ function showAuth() {
 function hideAuth() {
   document.body.classList.remove("auth-locked");
   els.authScreen.hidden = true;
+  els.authScreen.style.display = "none";
   els.authError.textContent = "";
 }
 
